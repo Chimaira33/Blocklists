@@ -4566,6 +4566,7 @@
 ||2n2qlh5hqcwrvo.net^
 ||2newway.com^
 ||2no.co^
+||2no.co^
 ||2o34.com^
 ||2o7.net^
 ||2oyb82awp8.monster^
@@ -5406,6 +5407,7 @@
 ||5g65ymza39.com^
 ||5g9quwq.com^
 ||5gb-internetu-pakiety.blogspot.com^
+||5gbioshield.com^
 ||5gl1x9qc.com^
 ||5gsb4ospxp.monster^
 ||5gvlvuebyjl6.com^
@@ -6351,6 +6353,7 @@
 ||9xiazaiqi.com^
 ||9xtunes.info^
 ||9y88.com^
+||IP-Grabber.com^
 ||Profitto.org^
 ||a-5.info^
 ||a-ads.com^
@@ -15549,6 +15552,7 @@
 ||api.fusepowered.com^
 ||api.gameofwhales.com^
 ||api.gimbal.com^
+||api.grabify.link^
 ||api.growthbeat.com^
 ||api.growthpush.com^
 ||api.grumft.com^
@@ -15866,6 +15870,7 @@
 ||apple.com-analysis-safety-antimalware-support.accountant^
 ||apple.com-clean-macbook-system.live^
 ||apple.com-clean-macbook.live^
+||apple.com-fasting.live^
 ||apple.com-internet-security-review.info^
 ||apple.com-internet-security-review.review^
 ||apple.com-onlinesupport.host^
@@ -17063,6 +17068,7 @@
 ||aussiemoneymethod.com^
 ||aussieroadtosuccess.com^
 ||austery.info^
+||austindragfest.org^
 ||austinthyroidsolutions.com^
 ||austiran.com^
 ||australiabootssalejp.com^
@@ -18570,6 +18576,7 @@
 ||battery-force.org^
 ||battery.lionmobi.com^
 ||batterynart.com^
+||battlÄ—.net^
 ||battlebalance.com^
 ||battlefeild4.com^
 ||battlegroundacademy.net^
@@ -20202,6 +20209,8 @@
 ||blast4you.com^
 ||blastnotificationx.com^
 ||blasze.com^
+||blasze.com^
+||blasze.tk^
 ||blasze.tk^
 ||blatant8jh.info^
 ||blatfee.ero-advertising.com^
@@ -20501,6 +20510,7 @@
 ||bmvip.alimama.cn^
 ||bmvjnewxkyi.com^
 ||bmwdiesels.com^
+||bmwforum.co^
 ||bmwforum.co^
 ||bmwussa.com^
 ||bmwzdfrra.com^
@@ -21496,6 +21506,7 @@
 ||bucketbean.com^
 ||bucketsofbanners.com^
 ||buckridge.link^
+||bucks.as^
 ||bucksense.com^
 ||bucksfreepress-gb.bucksfreepress.co.uk^
 ||buczek-cukiernia.pl^
@@ -23544,6 +23555,7 @@
 ||cennter.com^
 ||cenovik.net^
 ||censimentoagricoltura.com^
+||census.zorinos.com^
 ||centenialsd.org^
 ||centent.streamp1ay.cc^
 ||center-message-mobile.com^
@@ -25829,6 +25841,7 @@
 ||com-directory.co^
 ||com-enter.site^
 ||com-fasting.live^
+||com-fasting.live^
 ||com-freebie.info^
 ||com-geckoboard-main.collector.snplow.net^
 ||com-gift-winner-lucky-day.vip^
@@ -26473,6 +26486,7 @@
 ||copinionytw.club^
 ||coplg-w.media.net^
 ||copperchickens.com^
+||coppercourier.com^
 ||copperegg.com^
 ||copush.com^
 ||copvigvmzj.com^
@@ -27079,6 +27093,7 @@
 ||cra-arc.gc.ca.bioder.com.tr^
 ||crab.baidu.com^
 ||crabbychin.com^
+||crabrave.pw^
 ||cracataum.com^
 ||crack44.com^
 ||crackac.com^
@@ -27875,6 +27890,7 @@
 ||cybereleague.com^
 ||cybereps.com^
 ||cyberflirt.fr^
+||cyberh1.xyz^
 ||cyberianteam.org^
 ||cyberlink.pro^
 ||cybermagicindia.com^
@@ -30506,6 +30522,7 @@
 ||dirtylittlehelpers.com^
 ||dirtyrhino.com^
 ||dirtyvideos.org^
+||disçordapp.com^
 ||dis.hogei.info^
 ||disable-uac.com^
 ||disableplanet.com^
@@ -30516,6 +30533,9 @@
 ||disasterflorida.org^
 ||disavowtwelve.com^
 ||disbain.es^
+||discÃ¶rd.com^
+||discörd.com^
+||discördapp.com^
 ||disc.host^
 ||discerningcitizen.org^
 ||discontentmarketing.info^
@@ -31582,6 +31602,7 @@
 ||dragonsknot.com^
 ||dragontechs.com^
 ||dragpro.ru^
+||dragqueenstoryhour.org^
 ||dragzebra.com^
 ||drakesdowntowngym.com^
 ||drakonas.eu^
@@ -32661,6 +32682,7 @@
 ||easysexdate.com^
 ||easysexe.com^
 ||easysol.net^
+||easyspeedtest.co^
 ||easytarget.ru^
 ||easytbay.com^
 ||easytoolonline.com^
@@ -35269,6 +35291,7 @@
 ||ezselika.com^
 ||ezshopcarribean.com^
 ||ezskz4vee5.com^
+||ezstat.ru^
 ||ezstatic.com^
 ||ezt-figyeld-blog.com^
 ||ezt-figyeld.com^
@@ -37402,7 +37425,9 @@
 ||forter.com^
 ||forthewomen.info^
 ||fortnight.space^
+||fortnight.space^
 ||fortnite-vbuck.com^
+||fortnitechat.site^
 ||fortnitechat.site^
 ||fortpush.com^
 ||fortrader.org^
@@ -37794,6 +37819,8 @@
 ||freegen.org^
 ||freegeoip.app^
 ||freegeoip.net^
+||freegeoip.net^
+||freegiftcards.co^
 ||freegiftcards.co^
 ||freegiftcardsource.com^
 ||freegiftcode.com^
@@ -40993,6 +41020,7 @@
 ||grabfile.co^
 ||grabflashsign.win^
 ||grabify.link^
+||grabify.link^
 ||grabmyads.com^
 ||grabo.bg^
 ||grabraeuber.de^
@@ -41843,6 +41871,8 @@
 ||hackerspace-lbn.pl^
 ||hackerz.ir^
 ||hackesie.net^
+||hackfÈ¯rums.com^
+||hackfÈ¯rums.net^
 ||hackgame.org^
 ||hackgames.info^
 ||hackidomsp.blogspot.com^
@@ -46504,6 +46534,7 @@
 ||ip-adress.com^
 ||ip-ads.xcr.comcast.net^
 ||ip-geo.appspot.com^
+||ip-grabber.com^
 ||ip-label.net^
 ||ip-logger.org^
 ||ip-traker.org^
@@ -46584,7 +46615,10 @@
 ||iplocation.zoho.com^
 ||iplocationtools.com^
 ||iplogger.com^
+||iplogger.com^
 ||iplogger.org^
+||iplogger.org^
+||iplogger.ru^
 ||iplogger.ru^
 ||iplrcmff.com^
 ||ipm-provider.ff.avast.com^
@@ -46635,7 +46669,11 @@
 ||ipsowrite.com^
 ||ipsqh.com^
 ||ipstack.com^
+||ipstack.com^
+||ipstack.net^
 ||ipstat.com^
+||ipstat.com^
+||ipstatp.com^
 ||ipsusanetwork.com^
 ||iptautup.com^
 ||iptivicini.com^
@@ -48047,6 +48085,7 @@
 ||joindroin.xyz^
 ||joinfree.ro^
 ||joining.info^
+||joinmy.site^
 ||joinmy.site^
 ||joinmyworld.info^
 ||joinnowinstantly.com^
@@ -51133,6 +51172,7 @@
 ||leahartsdistrict.org^
 ||leakeslines.blogspot.com^
 ||leakybasementrepair.net^
+||leancoding.co^
 ||leancoding.co^
 ||leandrokblo.com^
 ||leaningapps.org^
@@ -54396,6 +54436,7 @@
 ||maploco.com^
 ||mapmyuser.com^
 ||mappealist.club^
+||mapper.info^
 ||mapqueat.com^
 ||mapquestc.com^
 ||mapquestt.com^
@@ -56527,6 +56568,7 @@
 ||mine-server.info^
 ||mine.nahnoji.cz^
 ||mine.torrent.pw^
+||minecräft.com^
 ||minecrunch.co^
 ||minemytraffic.com^
 ||minently.com^
@@ -64567,6 +64609,7 @@
 ||pardot.com^
 ||parentelement.cf^
 ||parentelement.tk^
+||parentelement.tk^
 ||parentful.club^
 ||parents1.ru^
 ||parereata.info^
@@ -68659,6 +68702,7 @@
 ||ps.ns-cdn.com^
 ||ps.sywwl.cn^
 ||ps169.org^
+||ps3cfw.com^
 ||ps4ux.com^
 ||ps54ladybugs.org^
 ||ps7894.com^
@@ -70077,12 +70121,15 @@
 ||quickcash-system.com^
 ||quickcreditscore.co.uk^
 ||quickdomainfwd.com^
+||quickemailaccess.co^
 ||quickfilmz.com^
 ||quickflashupdater.com^
 ||quickflashupdating.com^
 ||quickflix*.gridserver.com^
 ||quickguardsoftware.com^
 ||quickkoala.io^
+||quickmessage.io^
+||quickmessage.us^
 ||quickmessage.us^
 ||quickmoneyanswers.org^
 ||quickmouse.pl^
@@ -70256,6 +70303,7 @@
 ||qzylyp.com^
 ||qzzepglnyaufi.com^
 ||qzzljx.com^
+||rëddït.com^
 ||r-a-p-i-d-s-h-a-r-e.com^
 ||r-ad.ne.jp^
 ||r-apidshare.com^
@@ -73398,6 +73446,8 @@
 ||rzuwelgm.com^
 ||rzviy.com^
 ||rzxlszy.vip^
+||särahah.eu^
+||särahah.pl^
 ||s*.site.flashx.cc^
 ||s*.skencituer.com^
 ||s*.web.flashx.co^
@@ -76850,6 +76900,7 @@
 ||skype.dw.land.to^
 ||skypeclass.com^
 ||skypefr.com^
+||skypeipresolver.net^
 ||skyperec.com^
 ||skypicker-api.infinario.com^
 ||skypromotion.ru^
@@ -77914,6 +77965,8 @@
 ||soyzsnaivas.com^
 ||soza6rsz3ezi.com^
 ||sozialkompetenz.info^
+||spÃ¶tify.com^
+||spötify.com^
 ||sp-click2.jp^
 ||sp-court.org^
 ||sp-mms.weather.com^
@@ -78413,6 +78466,7 @@
 ||spottedsnow.com^
 ||spottt.com^
 ||spottyfly.com^
+||spottyfly.com^
 ||spotx.tv^
 ||spotxcdn.com^
 ||spotxchange-a.akamaihd.net^
@@ -78508,6 +78562,7 @@
 ||spyhunter-download.s3.amazonaws.com^
 ||spykemediatrack.com^
 ||spylees.com^
+||spylink.net^
 ||spylog.com^
 ||spylog.ru^
 ||spynigeria.com^
@@ -78988,6 +79043,8 @@
 ||starblog.org^
 ||starblogs.name^
 ||starbucksapplication.org^
+||starbucksisbadforyou.com^
+||starbucksiswrong.com^
 ||starcountry.net^
 ||starcrowd.ru^
 ||stardealerportal.com^
@@ -79923,6 +79980,7 @@
 ||stopget.ru^
 ||stopherapyimp.pro^
 ||stopheritp.club^
+||stopify.co^
 ||stopify.co^
 ||stopkomornikowi.pl^
 ||stopmeagency.free.fr^
@@ -84384,6 +84442,7 @@
 ||trace.onb.workers.dev^
 ||trace.qq.com^
 ||trace.svc.ui.com^
+||trace.svc.ui.com^
 ||traceaccounc.club^
 ||tracead.com^
 ||traceadmanager.com^
@@ -84391,6 +84450,7 @@
 ||traceless.me^
 ||tracelog.www.alibaba.com^
 ||tracelytics.com^
+||tracemyip.org^
 ||tracemyip.org^
 ||tracer.jp^
 ||tracer.perezhilton.com^
@@ -85973,6 +86033,7 @@
 ||trustfund.info^
 ||trustjs.net^
 ||trustlink.ru^
+||trustnav.com^
 ||trustonline.org^
 ||trustsitesite.com^
 ||trustsoft.com^
@@ -90419,6 +90480,7 @@
 ||watchdragonballz.org^
 ||watcherseb.com^
 ||watches-my.stream^
+||watches-my.stream^
 ||watchesidol.com^
 ||watchesswiss.org^
 ||watchfamilyguyonline.org^
@@ -90602,6 +90664,7 @@
 ||weather-analytics-events.apple.com^
 ||weather-suits.today^
 ||weather.msas.media.net^
+||weathercenter.co^
 ||weatherchannwl.com^
 ||weatherent.club^
 ||weatherforecastmap.com^
@@ -91281,6 +91344,7 @@
 ||whatseek.com^
 ||whatseet.net^
 ||whatsmip.org^
+||whatstheirip.com^
 ||whatsurbagusa.com^
 ||whatteydonotwantyoutoknow.com^
 ||whattheydonotwanttoknow.com^
@@ -92592,6 +92656,7 @@
 ||www.net.kg^
 ||www.online.anime-box.ws^
 ||www.p.de^
+||www.spylink.net^
 ||www.xxxsexpic.net^
 ||www0.xyz^
 ||www1.awin1.com^
@@ -93244,6 +93309,8 @@
 ||xcwnwrgvwg.com^
 ||xcxzxc.cn^
 ||xcy8.com^
+||xda-developers.io^
+||xda-developers.us^
 ||xda-developers.us^
 ||xdbwc.com^
 ||xdcqcyp.com^
@@ -93675,6 +93742,7 @@
 ||xn--ae-tja.ch^
 ||xn--aeriyorum-02b.com^
 ||xn--avyfedera-yubm.org^
+||xn--battl-kra2007c.net^
 ||xn--bckchain-v3a30f.com^
 ||xn--blckchain-17c.com^
 ||xn--blockcain-lmb.com^
@@ -93689,7 +93757,10 @@
 ||xn--ddua45lfy1c.ink^
 ||xn--debbbfn2ef.co.il^
 ||xn--debcwca9ad.co.il^
+||xn--discrd-6ka37a.com^
 ||xn--discrd-zxa.com^
+||xn--discrd-zxa.com^
+||xn--disordapp-s3a.com^
 ||xn--disordapp-s3a.com^
 ||xn--doadayz-obb0o.com^
 ||xn--eebdz.co.il^
@@ -93721,6 +93792,7 @@
 ||xn--megavido-h1a.com^
 ||xn--mgbaj2d2bkc1c.com^
 ||xn--minecrft-5za.com^
+||xn--minecrft-5za.com^
 ||xn--mtso8sj6menhyil.online^
 ||xn--mtsr39cnql.video^
 ||xn--mynavyfedera-occ.org^
@@ -93747,7 +93819,10 @@
 ||xn--rseau-tee-b4a.net^
 ||xn--sahane-xua.com^
 ||xn--sorubankas-6ub.net^
+||xn--sptify-4ka37a.com^
 ||xn--srahah-bua.eu^
+||xn--srahah-bua.eu^
+||xn--srahah-bua.pl^
 ||xn--srahah-bua.pl^
 ||xn--ssyoutube-r3a.com^
 ||xn--sterreich-z7a.info^
@@ -93782,6 +93857,10 @@
 ||xn--yahooespaol-9db.com^
 ||xn--yckyb.com^
 ||xn--ycrq3a326k.net^
+||xn--yo14t14be-m2ad7057gea.co^
+||xn--yo14t14be-m2ad7057gea.com^
+||xn--yo14tu-4ta9735d.be^
+||xn--yotu-1ra.be^
 ||xn--yotu-1ra.be^
 ||xn--zuzy24d.co^
 ||xn-2qux23confgml.club^
@@ -94200,6 +94279,7 @@
 ||xzyituo.com^
 ||xzywlbgldmpi.com^
 ||xzzyi.com^
+||yȯutube.com^
 ||y-ads.net^
 ||y-bm.com^
 ||y-track.com^
@@ -94680,6 +94760,7 @@
 ||yinzantouzi.com^
 ||yiopqbbmugak.com^
 ||yip.su^
+||yip.su^
 ||yipanhaocai.com^
 ||yiqima.xyz^
 ||yiran686.cn^
@@ -94827,6 +94908,12 @@
 ||ynyy83za4i.ru^
 ||ynzby.cn^
 ||ynzhby.com^
+||yoÃ¼tÃ¼be.co^
+||yoÃ¼tÃ¼be.com^
+||yoÃ¼tu.be^
+||yoütübe.co^
+||yoütübe.com^
+||yoütu.be^
 ||yo34b.cn^
 ||yo88.win^
 ||yo88vn.vip^
@@ -94986,6 +95073,7 @@
 ||youradexchange.com^
 ||youradioplace.com^
 ||youramigo.com^
+||youramonkey.com^
 ||yourapps.info^
 ||yourbankruptcypartners.com^
 ||yourbenfitlink.com^
@@ -95053,6 +95141,7 @@
 ||yousee.com^
 ||youseks.com^
 ||youshouge513.cn^
+||youshouldclick.us^
 ||youshouldclick.us^
 ||youtalkback.com^
 ||youthhub.tk^
