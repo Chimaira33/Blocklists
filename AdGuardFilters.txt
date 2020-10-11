@@ -17,6 +17,7 @@
 *##^script:has-text(fbq)
 *##style:has-text(/adblock|fuckAdBlock|adBlockDetected|bypassAb|arlinablock|detectadnotes/i):remove()
 *.com/be_fl.js$script,redirect=noopjs
+*/*.gif?*id*
 */AntiAdblock/
 */BlockAdBlock
 */BlockAdBlock.js
@@ -26,6 +27,7 @@
 */FuckAdBlock.js
 */FuckAdBlock.min.js
 */GA360.php
+*/ad_proxy/
 */adblock-blocker/*
 */adblock-detector.js
 */adblock-detector/
@@ -46,6 +48,7 @@
 */blockadblock.js
 */blockadblock.min.js
 */blockalyzer-adblock-counter/
+*/detailadv
 */detect-adblock.js
 */detect-adblock/
 */fuckadblock
@@ -56,6 +59,7 @@
 */jquery.adblock-detector.js$script
 */kill-adblock/js/function.js$script
 */msn-adblocker-*/
+*/naviad
 */noadblock.jpg
 */plugin/better-stop-adblock/
 */plugins/deadblocker/
