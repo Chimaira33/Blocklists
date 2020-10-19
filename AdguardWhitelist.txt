@@ -1,0 +1,178 @@
+# My Adguard Home whitelist
+@@||account.adguard.com^$important
+@@||adguard.com^$important
+@@||api.adguard.com^$important
+@@||auth.adguard.com^$important
+@@||filters.adtidy.org^$important
+@@||local.adguard.org^$important
+@@||mobile-api.adguard.com^$important
+@@||my.adguard.com^$important
+@@||static.adguard.com^$important
+@@||unshort.link^$important
+# Instagram
+@@||cdninstagram.com^$important
+# Google
+@@||0.client-channel.google.com^$important
+@@||2.android.pool.ntp.org^$important
+@@||android.clients.google.com^$important
+@@||appsbackup-pa.clients6.google.com^$important
+@@||appsbackup-pa.googleapis.com^$important
+@@||clients1.google.com^$important
+@@||clients2.google.com^$important
+@@||clients3.google.com^$important
+@@||clients4.google.com^$important
+@@||clients5.google.com^$important
+@@||clients6.google.com^$important
+@@||cse.google.com^$important
+@@||fonts.gstatic.com^$important
+@@||www.googleapis.com^$important
+@@||googleapis.com^$important
+@@||gstatic.com^$important
+@@||instantmessaging-pa.googleapis.com^$important
+@@||manifest.googlevideo.com^$important
+@@||redirector.googlevideo.com^$important
+@@||video-stats.l.google.com^$important
+@@||geo3.ggpht.com^$important
+@@||yt3.ggpht.com^$important
+# Youtube
+@@||s.youtube.com^$important
+@@||s2.youtube.com^$important
+@@||www.youtube-nocookie.com^$important
+@@||youtu.be^$important
+@@||youtube-nocookie.com^$important
+@@||i.ytimg.com^$important
+@@||i1.ytimg.com^$important
+@@||s.ytimg.com^$important
+# Github
+@@||github.com^$important
+@@||github.io^$important
+@@||raw.githubusercontent.com^$important
+# Cloudflare
+@@||cdn.cloudflare.net^$important
+@@||cdnjs.cloudflare.com^$important
+# Dropbox
+@@||dl.dropbox.com^$important
+@@||dl.dropboxusercontent.com^$important
+@@||ns1.dropbox.com^$important
+@@||ns2.dropbox.com^$important
+# Facebook
+@@||graph.facebook.com^$important
+@@||connect.facebook.net^$important
+@@||pixel.facebook.com^$important
+@@||mqtt-mini.facebook.com^$important
+@@||staticxx.facebook.com^$important
+@@||b-graph.facebook.com^$important
+@@||lookaside.facebook.com^$important
+@@||b-api.facebook.com^$important
+@@||mqtt-p4.facebook.com^$important
+@@||z-p3-scontent.xx.fbcdn.net^$important
+@@||z-p3-api.facebook.com^$important
+@@||b-www.facebook.com^$important
+@@||z-p3-sonar.fdar1-1.fna.fbcdn.net^$important
+# No-IP.com
+@@||dynupdate.no-ip.com^$important
+@@||no-ip.com^$important
+@@||www.no-ip.com^$important
+# Twitter
+@@||twimg.com^$important
+@@||twitter.com^$important
+@@||t.co^$important
+# Optimizely
+@@||cdn.optimizely.com^$important
+@@||cdn2.optimizely.com^$important
+@@||cdn3.optimizely.com^$important
+# Buffer CDN 
+@@||bufferapp.com^$important
+# Embedly.com
+@@||cdn.embedly.com^$important
+# Giphy.com
+@@||giphy.com^$important
+# Gravatar Image
+@@||gravatar.com^$important
+# Ted.com
+@@||hls.ted.com^$important
+@@||app-api.ted.com^$important
+@@||tedcdn.com^$important
+# Vidible Video Platform
+@@||img.vidible.tv^$important
+@@||cdn.vidible.tv^$important
+@@||delivery.vidible.tv^$important
+@@||videos.vidible.tv^$important
+# ImgIX
+@@||imgix.net^$important
+# XKCD
+@@||imgs.xkcd.com^$important
+#Bitly URL Shortener
+@@||j.mp^$important
+# Jquery
+@@||jquery.com^$important
+# Jsdelivr.net Open Source CDN
+@@||jsdelivr.net^$important
+# CBS Television Stream
+@@||om.cbsi.com^$important
+@@||dw.cbsi.com^$important
+@@||cbsi.com^$important
+@@||cbsinteractive.hb.omtrdc.net^$important
+@@||s0.2mdn.net^$important
+# Audioscrobbler.com
+@@||ws.audioscrobbler.com^$important
+# Pinterest
+@@||pinterest.com^$important
+# Placehold it image soft
+@@||placehold.it^$important
+@@||placeholdit.imgix.net^$important
+# Shopify.com eCommerce Software
+@@||v.shopify.com^$important
+@@||s.shopify.com^$important
+# Wordpress
+@@||wp.com^$important
+@@||s1.wp.com^$important
+@@||wordpress.com^$important
+# Avangate Shop
+@@||secure.avangate.com^$important
+# Surveymonkey
+@@||secure.surveymonkey.com^$important
+# JW Player
+@@||ssl.p.jwpcdn.com^$important
+# Themoviedb.com
+@@||themoviedb.com^$important
+# Thetvdb.com
+@@||thetvdb.com^$important
+# Tinyurl Shortener
+@@||tinyurl.com^$important
+# Libsyn Podcast Hosting
+@@||traffic.libsyn.com^$important
+# Wikipedia
+@@||wikipedia.org^$important
+# Netflix
+@@||api-global.netflix.com^$important
+@@||ichnaea.netflix.com^$important
+@@||appboot.netflix.com^$important
+@@||secure.netflix.com^$important
+# Spotify
+@@||open.spotify.com^$important
+@@||mobile-ap.spotify.com^$important
+@@||apresolve.spotify.com^$important
+@@||upgrade.scdn.com^$important
+@@||market.spotify.com^$important
+@@||spclient.wg.spotify.com^$important
+@@||ap.spotify.com^$important
+@@||audio-ake.spotify.com.edgesuite.net^$important
+@@||audio4-ak.spotify.com.edgesuite.net^$important
+# Amazon Prime Video and Amazon CDN
+@@||eu.api.amazonvideo.com^$important
+@@||device-metrics-us.amazon.com^$important
+@@||fls-eu.amazon.com^$important
+@@||fls-na.amazon.com^$important
+@@||cloudfront.net^$important
+@@||device-metrics-us-2.amazon.com^$important
+@@||images-amazon.com^$important
+@@||amazonaws.com^$important
+@@||s3.amazonaws.com^$important
+@@||d2c8v52ll5s99u.cloudfront.net^$important
+@@||d2gatte9o95jao.cloudfront.net^$important
+# Weather
+@@||worldweather.wmo.int^$important
+@@||yr.no^$important
+# Lets Encrypt
+@@||letsencrypt.org^$important
