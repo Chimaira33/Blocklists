@@ -12,12 +12,19 @@
 ##[id*="adblock-"]
 *##+js(aeld, pagehide)
 *##+js(aeld, pageshow)
+*##+js(cookie-remover, /.{0,}landing_page.{0,}|.{0,}orig_referrer.{0,}|svSession|ssr-caching|bSession|Country-Code|AETN-EU|_iub_cs|_pk_id|_pk_ses|_iubenda_session|.{0,}personalization_id.{0,}|adCounter|.+_client_tz|geoCC|.+_cloudproxy_.+|popupData|.+_sp_ses.|.+_sp_id.|external_no_cache|XR_PAGE_TYPE|.+_landing|.+_referrer|first_visit|first_visit_src|svSession|.+_cpvisit|.+_cvisit|grav-site-|History|ak_bmsc|bm_sv|sharedsession|st_cur_page|nyt-purr|nyt-a|.+__cfruid|inHouseAds|.+_mooc_sso|.+_normandy_session|log_session_id|hmb_source|exo_zones|smarter-navigation\[|nb-no-req-|splashWeb-|KeywordCookie|LastVisited|LocationTaxonomiesCookie|ReferrerCookie|SubjectTaxonomiesCookie|cedsess|gpv_Channel|gpv_Contenttype|gpv_Subchannel|gpv_pageName|gpv_pn|s_cc|s_pn|s_vi|s_visit|fp_token_.+|ab_test_stickiness|OptanonConsent|wordpress_last_visit|wpdiscuz_last_visit|.+_landing_page|http_referrer|.+_device_id|.+_parsely_visitor|slimstat_tracking_code|view_count|played_games_ids|ABTEST|ip|KinjaSession|country|visited|counter|countrycode|city|session_tracker|cookies.js|location-data|smpush_safari_device_token|smpush_device_token|.+_gcl_au|gup_clientid|floodlightPixelTimer|geo|IPLOC|browerV|.+__utmz|.+__utma|.+__utmc|.+__utmb|.+__utmt|.+_ga|uid|.+_gat|PHPSESSID|.+__cfduid|UIDR|pid|uuid2|tuuid|.+_drt_.+|uuidc|.+__gads|ASP.NET_SessionId|anj|.+__atuvc|.+__atuvs|di2|rpx|rpb|bku|bkdc|yandexuid|TDID|yabs-sid|khaos|TDCPM|.+__qca|IDE|PUBMDCID|guest_id|wfivefivec|na_tc|bkc|bklc|OAID|JEB2|CMPS|CMID|CfP|ra1_uid|CMST|CMDD|CMSC|.+_cc_cc|.+_cc_id|.+_cc_dc|.+_cc_aud|rtc_AAAA|ljt_reader|ra1_sid|RA1balancer|MUID|sto-id-20480-bh|pudm_AAAA|adaptv_unique_user_cookie|put_1185|MR|CMRUM3|.+__auc|.+__asc|KRTBCOOKIE_22|everest_g_v2|TapAd_TS|TapAd_DID|icu|everest_session_v2|Gdyn|is_unique|TMP_X1ID|.+__unam|X1ID|matchgoogle|put_1986|KADUSERCOOKIE|ServedBy|optimizelyEndUserId|optimizelyBuckets|optimizelySegments|optimizelyPendingLogEvents|put_1512|KTPCACOOKIE|pi|KRTBCOOKIE_27|ev_t|ev_t2|SERVERID|KRTBCOOKIE_57|KRTBCOOKIE_80|put_2249|.+__utmv|.+_ljtrtb_1|SyncRTB|SYNCUPPIX_ON|put_2313|.+_ym_uid|.+_ym_isad|put_2132|PUBRETARGET|KRTBCOOKIE_148|.+__zlcmid|taboola_session_id|taboola_upci|end_user_id|.+__adroll|OAGEO|KRTBCOOKIE_240|put_2146|put_2309|.+_ljtrtb_2|put_2596|mako_uid|ANON_ID|put_2307|.+_rxuuid|put_2810|ra1_pd|put_1523|GPS|ljtrtb|KRTBCOOKIE_52|parsely_network_uuid|put_3876|KRTBCOOKIE_466|.+_chartbeat2|put_2676|sc_is_visitor_unique|put_2046|FFad|FFcat|KRTBCOOKIE_200|put_2238|BizoData|ads_prefs|personalization_id|1P_JAR|cp_id_ec364pageLoads|lithiumSSO%3Apandora.prod|isp|.+_device_id|ghostmonitor_session_id|.+_orig_referrer|gup_clientid|utag_main|gup_clientid|utag_main|.+_uv3_session|.+_device_id|has_recent_activity|click_id_time|LOCATION_FROM_IP|IP_COUNTRY|.+_wamtcstandards|com.tree.widgets\$IGoogleAdServingTest|com.yahoo.\$IB|i10c.referrer|[a-zA-Z0-9]+.uservisit|i10c3C|i10c.SIBC|i10c.ss|i10c.uid|morphi10c|m0r9h.route|m0r9h.salt|m0r9h.bsalt|.+_chartbeat[0-9]|MUID|.+_EDGE_V|.+_EDGE_S|net.media.contextual\$Nhbcm_sd|i10cTS|i10cTC|SRCHUSR|SRCHUID|SRCHD|com.linkedin.\$Ilidc|com.linkedin.ads.\$Nlang|com.linkedin.\$Ili_sugr|com.scorecardresearch.\$IUIDR|com.scorecardresearch.\$IUID|net.media.\$Idata-nms|net.media.\$Ivisitor-id|msaOptout|.+_cb_svref|session_tracker|PLAY_FLASH|PLAY_SESSION|AkaSTrackingID|comment_author_.+|.+_snow_id.|.+_snow_ses.|is_mobile|sucuri_cloudproxy_uuid_.+|popups_session_duration|.+_referrer|.+_pageviews|ReturningSession|CurrentSession|watched|.+_youtube_session|ad_group|.+_dmp_uid|G_ENABLED_IDPS|xf_id|melody_device|ufp2|ezoab_.+|ezoadgid_.+|ezopvc_.+|ezoref_.+|ezux_et_.+|ezux_lpl_.+|ezux_tos_.+|ezux_ifep_.+|ezCMPCCS|VISITOR|session-id|session-id-time|session-token|ubid-main|csm-hit|exp-ck|pxvid|akavpau_p.|com.wm.reflector|PAIDCONTENT|adsense|pgv_pvid|lv_play_indexl|psessiontime|psessionid|appuser|visid_.+|.+_ses_.+|tagit_params|tagit_session|cf_clearance|previous_detail|search_list|playwirePageViews|user_var|xtag|.+_views|xv_nbview|html5_networkspeed|id_op|sqsess|sqvisitor|yt-campaign-coo|yt-referrer-coo|kt_ips|pmpro_visit|AdBlockerState|show_only_once_per_day6|laravel_session|pwg_id|cip|ips4_IPSSessionFront|ips4_hasJS|ips4_ipsTimezone|IMGURUIDJAFO|amplitude_cookie_test|amplitude_id_.+|amplitude_.+|pa_device_id|ads_count|ASPSESSIONIDQUABAQSB|remix_adbook|.+__uts1|0ae10|.+_subid|bilginpro|itools_session|BAIDUID|s_ht_pageid|tnwhiteft|ISBID|ISUS|.+__bsi|CraftSessionId|opref|ASPSESSIONIDASCSQTSA|wpml_browser_redirect_test|OGPC|NID|PixelDensity|.+_px2|bbhive|disco_client_id|arxiv_browse|browser|stats|visits|platform|platform_cookie_reset|atatusScript|areviwes_session|.+_previous_pathname|areviwes_session|.+_viewhistroy|crak|tracking|.+%40AdobeOrg|.+_gid|.+_gtm_.+|AWSELBCORS|articleViews/i)
 *##+js(noeval)
 *##^script:has-text(facebook-jssdk)
 *##^script:has-text(fbq)
 *##style:has-text(/adblock|fuckAdBlock|adBlockDetected|bypassAb|arlinablock|detectadnotes/i):remove()
+*$cookie=/.{0,}landing_page.{0,}|.{0,}orig_referrer.{0,}|svSession|ssr-caching|bSession|Country-Code|AETN-EU|_iub_cs|_pk_id|_pk_ses|_iubenda_session|.{0,}personalization_id.{0,}|AWSELBCORS|articleViews|adCounter|.+_client_tz|geoCC|.+_cloudproxy_.+|popupData|.+_sp_ses.|.+_sp_id.|external_no_cache|XR_PAGE_TYPE|.+_landing|.+_referrer|first_visit|first_visit_src|svSession|.+_cpvisit|.+_cvisit|grav-site-|History|ak_bmsc|bm_sv|sharedsession|st_cur_page|nyt-purr|nyt-a|.+__cfruid|inHouseAds|.+_mooc_sso|.+_normandy_session|log_session_id|hmb_source|exo_zones|smarter-navigation\[|nb-no-req-|splashWeb-|KeywordCookie|LastVisited|LocationTaxonomiesCookie|ReferrerCookie|SubjectTaxonomiesCookie|cedsess|gpv_Channel|gpv_Contenttype|gpv_Subchannel|gpv_pageName|gpv_pn|s_cc|s_pn|s_vi|s_visit|fp_token_.+|ab_test_stickiness|OptanonConsent|wordpress_last_visit|wpdiscuz_last_visit|.+_landing_page|http_referrer|.+_device_id|.+_parsely_visitor|slimstat_tracking_code|view_count|played_games_ids|ABTEST|ip|KinjaSession|country|visited|counter|countrycode|city|session_tracker|cookies.js|location-data|smpush_safari_device_token|smpush_device_token|.+_gcl_au|gup_clientid|floodlightPixelTimer|geo|IPLOC|browerV|.+__utmz|.+__utma|.+__utmc|.+__utmb|.+__utmt|.+_ga|uid|.+_gat|PHPSESSID|.+__cfduid|UIDR|pid|uuid2|tuuid|.+_drt_.+|uuidc|.+__gads|ASP.NET_SessionId|anj|.+__atuvc|.+__atuvs|di2|rpx|rpb|bku|bkdc|yandexuid|TDID|yabs-sid|khaos|TDCPM|.+__qca|IDE|PUBMDCID|guest_id|wfivefivec|na_tc|bkc|bklc|OAID|JEB2|CMPS|CMID|CfP|ra1_uid|CMST|CMDD|CMSC|.+_cc_cc|.+_cc_id|.+_cc_dc|.+_cc_aud|rtc_AAAA|ljt_reader|ra1_sid|RA1balancer|MUID|sto-id-20480-bh|pudm_AAAA|adaptv_unique_user_cookie|put_1185|MR|CMRUM3|.+__auc|.+__asc|KRTBCOOKIE_22|everest_g_v2|TapAd_TS|TapAd_DID|icu|everest_session_v2|Gdyn|is_unique|TMP_X1ID|.+__unam|X1ID|matchgoogle|put_1986|KADUSERCOOKIE|ServedBy|optimizelyEndUserId|optimizelyBuckets|optimizelySegments|optimizelyPendingLogEvents|put_1512|KTPCACOOKIE|pi|KRTBCOOKIE_27|ev_t|ev_t2|SERVERID|KRTBCOOKIE_57|KRTBCOOKIE_80|put_2249|.+__utmv|.+_ljtrtb_1|SyncRTB|SYNCUPPIX_ON|put_2313|.+_ym_uid|.+_ym_isad|put_2132|PUBRETARGET|KRTBCOOKIE_148|.+__zlcmid|taboola_session_id|taboola_upci|end_user_id|.+__adroll|OAGEO|KRTBCOOKIE_240|put_2146|put_2309|.+_ljtrtb_2|put_2596|mako_uid|ANON_ID|put_2307|.+_rxuuid|put_2810|ra1_pd|put_1523|GPS|ljtrtb|KRTBCOOKIE_52|parsely_network_uuid|put_3876|KRTBCOOKIE_466|.+_chartbeat2|put_2676|sc_is_visitor_unique|put_2046|FFad|FFcat|KRTBCOOKIE_200|put_2238|BizoData|ads_prefs|personalization_id|1P_JAR|cp_id_ec364pageLoads|lithiumSSO%3Apandora.prod|isp|.+_device_id|ghostmonitor_session_id|.+_orig_referrer|gup_clientid|utag_main|gup_clientid|utag_main|.+_uv3_session|.+_device_id|has_recent_activity|click_id_time|LOCATION_FROM_IP|IP_COUNTRY|.+_wamtcstandards|com.tree.widgets\$IGoogleAdServingTest|com.yahoo.\$IB|i10c.referrer|[a-zA-Z0-9]+.uservisit|i10c3C|i10c.SIBC|i10c.ss|i10c.uid|morphi10c|m0r9h.route|m0r9h.salt|m0r9h.bsalt|.+_chartbeat[0-9]|MUID|.+_EDGE_V|.+_EDGE_S|net.media.contextual\$Nhbcm_sd|i10cTS|i10cTC|SRCHUSR|SRCHUID|SRCHD|com.linkedin.\$Ilidc|com.linkedin.ads.\$Nlang|com.linkedin.\$Ili_sugr|com.scorecardresearch.\$IUIDR|com.scorecardresearch.\$IUID|net.media.\$Idata-nms|net.media.\$Ivisitor-id|msaOptout|.+_cb_svref|session_tracker|PLAY_FLASH|PLAY_SESSION|AkaSTrackingID|comment_author_.+|.+_snow_id.|.+_snow_ses.|is_mobile|sucuri_cloudproxy_uuid_.+|popups_session_duration|.+_referrer|.+_pageviews|ReturningSession|CurrentSession|watched|.+_youtube_session|ad_group|.+_dmp_uid|G_ENABLED_IDPS|xf_id|melody_device|ufp2|ezoab_.+|ezoadgid_.+|ezopvc_.+|ezoref_.+|ezux_et_.+|ezux_lpl_.+|ezux_tos_.+|ezux_ifep_.+|ezCMPCCS|VISITOR|session-id|session-id-time|session-token|ubid-main|csm-hit|exp-ck|pxvid|akavpau_p.|com.wm.reflector|PAIDCONTENT|adsense|pgv_pvid|lv_play_indexl|psessiontime|psessionid|appuser|visid_.+|.+_ses_.+|tagit_params|tagit_session|cf_clearance|previous_detail|search_list|playwirePageViews|user_var|xtag|.+_views|xv_nbview|html5_networkspeed|id_op|sqsess|sqvisitor|yt-campaign-coo|yt-referrer-coo|kt_ips|pmpro_visit|AdBlockerState|show_only_once_per_day6|laravel_session|pwg_id|cip|ips4_IPSSessionFront|ips4_hasJS|ips4_ipsTimezone|IMGURUIDJAFO|amplitude_cookie_test|amplitude_id_.+|amplitude_.+|pa_device_id|ads_count|ASPSESSIONIDQUABAQSB|remix_adbook|.+__uts1|0ae10|.+_subid|bilginpro|itools_session|BAIDUID|s_ht_pageid|tnwhiteft|ISBID|ISUS|.+__bsi|CraftSessionId|opref|ASPSESSIONIDASCSQTSA|wpml_browser_redirect_test|OGPC|NID|PixelDensity|.+_px2|bbhive|disco_client_id|arxiv_browse|browser|stats|visits|platform|platform_cookie_reset|atatusScript|areviwes_session|.+_previous_pathname|areviwes_session|.+_viewhistroy|crak|tracking|.+%40AdobeOrg|.+_gid|.+_gtm_.+/
 *.com/be_fl.js$script,redirect=noopjs
+*.com/be_fl.js$script,redirect=noopjs,important
+*.gif?pingver=$image,redirect=1x1.gif,important
 */*.gif?*id*
+*/*/header.js$script,redirect=noopjs,important
+*/*gpt_*$script,redirect=noopjs,important
+*/*prebid_*$script,redirect=noopjs,important
 */AntiAdblock/
 */BlockAdBlock
 */BlockAdBlock.js
@@ -27,6 +34,7 @@
 */FuckAdBlock.js
 */FuckAdBlock.min.js
 */GA360.php
+*/adScript*$script,redirect=noopjs,important
 */ad_proxy/
 */adblock-blocker/*
 */adblock-detector.js
@@ -39,15 +47,20 @@
 */adblockchecker.js$script
 */adblockdetect.
 */adblockdetection.
+*/ads/pop.$script,redirect-rule=noopjs,important
+*/ads_prebid$script,redirect=noopjs,important
 */ajaxCustomerInfoGA
 */anti-adblock.php
 */antiadblock.
 */api/adblocker/
+*/atmedia_ms_v*$script,redirect=noopjs,third-party,important
 */blockadblock
 */blockadblock.git
 */blockadblock.js
 */blockadblock.min.js
 */blockalyzer-adblock-counter/
+*/cleardot.gif$image,redirect=1x1.gif,important
+*/cleardot.gif$image,redirect=1x1.gif,important,domain=~gmail.com|mail.google.com
 */detailadv
 */detect-adblock.js
 */detect-adblock/
@@ -56,18 +69,32 @@
 */fuckadblock.js
 */fuckadblock.min.js
 */google-adblock.js
+*/google_tag-$script,redirect=noopjs,important
+*/google_tag.$script,redirect=noopjs,important
+*/gtag.$script,redirect=noopjs,important
+*/gtag/$script,redirect=noopjs,important
+*/gtm.$script,redirect=noopjs,important
 */jquery.adblock-detector.js$script
+*/js/pop.$script,redirect-rule=noopjs,important
 */kill-adblock/js/function.js$script
+*/metrics.$script,redirect=noopjs,important
 */msn-adblocker-*/
 */naviad
+*/netcheck.gif$image,redirect=1x1.gif,important,domain=~gmail.com|mail.google.com
 */noadblock.jpg
 */plugin/better-stop-adblock/
 */plugins/deadblocker/
 */plugins/ibd-block-adblocker/
 */plugins/noadblock-nice-message/
 */popunder.gif^$popup,popunder
+*/prebid*$script,redirect=noopjs,important
+*/pubads_$script,redirect=noopjs,important
 */react-$script
 */react.$script
+*/sensorsdata.$script,redirect=noopjs,important
+*/show-ads.$script,redirect=noopjs,important
+*/ua-parser-$script,redirect=noopjs,important
+*/ua-parser.$script,redirect=noopjs,important
 */wp-content/plugins/sorry-adblocker/js/sab.js$script
 *?spot_id=*&ct=*$popup,popunder
 /(auth)[0-9]{2,3}\.(dns|ns|roc)\..+/$all
@@ -77,6 +104,7 @@
 ?*facebook*
 ^*$inline-font
 duckduckgo.com##.has-image:has-text(Facebook)
+fastpic.ru#@#[id*="adblock-"]
 google.*###bottomads
 google.*###consent-bump
 google.*###fsl
@@ -104,6 +132,7 @@ youtube.com#@#body:style(overflow:visible !important)
 ||abc.xyz^$all
 ||adguard-com.cdn.ampproject.org^$all
 ||admob.com^$all
+||amazon-adsystem.com/*/apstag.js$script,redirect-rule=amazon_apstag.js,important
 ||ampproject.org^$all
 ||angular.io^$all
 ||angulardart.dev^$all
@@ -115,9 +144,11 @@ youtube.com#@#body:style(overflow:visible !important)
 ||calicolabs.com^$all
 ||capitalg.com^$all
 ||cdn.ampproject.org^$all
+||cdnst.net/javascript/amazon.js$script,redirect=amazon_apstag.js,important
 ||chronicle.security^$all
 ||crowdtangle.com^$all
 ||deepmind.com^$all
+||doubleclick.net/instream/ad_status.js$script,redirect=noopjs,important
 ||doubleclick.net^$all
 ||facebook.com^$all
 ||fb.me^$all
@@ -156,6 +187,7 @@ youtube.com#@#body:style(overflow:visible !important)
 ||nest.com^$all
 ||play.google.com$domain=google.*
 ||reactjs.org^$all
+||reddit.com/sw-stats/
 ||scorecardresearch.com/beacon.js$script,redirect=noopjs
 ||sidewalklabs.com^$all
 ||tenor.com^$all
