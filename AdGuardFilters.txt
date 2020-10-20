@@ -102,7 +102,6 @@
 /^(http)?(s)?.+\.(home|col)$/
 ?*.facebook.
 ?*facebook*
-^*$inline-font
 duckduckgo.com##.has-image:has-text(Facebook)
 fastpic.ru#@#[id*="adblock-"]
 google.*###bottomads
