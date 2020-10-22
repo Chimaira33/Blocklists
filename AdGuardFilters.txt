@@ -283,6 +283,13 @@ $$link[rel="subresource"]
 /^(http)?(s)?.+\.(home|col)$/
 ?*.facebook.
 ?*facebook*
+@@||192.168.60.153^$important
+@@||192.168.60.180^$important
+@@||forgecdn.net/files/*/*/*.jar$important
+@@||jobs.utah.gov^$important,document
+@@||optifine.net^$important,document
+@@||pi.hole^$important,document
+@@||protonmail.com^$important,document
 duckduckgo.com##.has-image:has-text(Facebook)
 fastpic.ru#@#[id*="adblock-"]
 google.*###bottomads
