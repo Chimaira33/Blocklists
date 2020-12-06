@@ -21,8 +21,6 @@ $$link[rel="preload"]
 $$link[rel="prerender"]
 $$link[rel="prev"]
 $$link[rel="subresource"]
-*##+js(aeld, pagehide)
-*##+js(aeld, pageshow)
 *##+js(noeval)
 *.com/be_fl.js$script,redirect=noopjs
 *.com/be_fl.js$script,redirect=noopjs,important
