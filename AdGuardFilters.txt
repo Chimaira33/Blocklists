@@ -94,6 +94,7 @@ youtube.com#@#body:style(overflow:visible !important)
 ||*.tmp^$empty
 ||*.vbe^$empty
 ||*.vbs^$empty
+||*^$csp=prefetch-src 'none'
 ||*^$ping
 ||0.0.0.0^$third-party
 ||127.0.0.1^$third-party,websocket
