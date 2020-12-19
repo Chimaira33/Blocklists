@@ -27,7 +27,6 @@
 ##[class*="_Rel_Newrev"]
 ##[class*="__SPONSORED"]
 ##[class*="__ad"]
-##[class*="__ad"]
 ##[class*="_adv"]
 ##[class*="_advertisement_"]
 ##[class*="_cookies"]
@@ -148,7 +147,6 @@
 ##[class*="banner-register"]
 ##[class*="banner__"]
 ##[class*="billboard-ad"]
-##[class*="blacklivesmatter"]
 ##[class*="blacklivesmatter"]
 ##[class*="block-ad"]
 ##[class*="bnnrs-player"]
@@ -349,7 +347,6 @@
 ##[href*="advertising.com"]
 ##[href*="bingads.com"]
 ##[href*="blacklivesmatters."]
-##[href*="blacklivesmatters."]
 ##[href*="buysellads.net"]
 ##[href*="bytesignal.com"]
 ##[href*="carbonads.net"]
@@ -377,7 +374,6 @@
 ##[href*="libedgolart.com"]
 ##[href*="mobtyb.com"]
 ##[href*="onelink.me"]
-##[href*="orange2258.com"]
 ##[href*="orange2258.com"]
 ##[href*="outbrain.com"]
 ##[href*="panokaverit.com"]
@@ -422,7 +418,6 @@
 ##[id*="WNAd"]
 ##[id*="_Rel_Newrev"]
 ##[id*="__SPONSORED"]
-##[id*="__ad"]
 ##[id*="__ad"]
 ##[id*="_adv"]
 ##[id*="_advertisement_"]
@@ -542,7 +537,6 @@
 ##[id*="banner-register"]
 ##[id*="banner__"]
 ##[id*="billboard-ad"]
-##[id*="blacklivesmatter"]
 ##[id*="blacklivesmatter"]
 ##[id*="block-ad"]
 ##[id*="bnnrs-player"]
@@ -733,14 +727,9 @@
 ##img[name="sponsored"]
 ##img[src*="go.php"]
 ##img[src*="out.php"]
-#$#body { overflow:visible!important; }
-#%#Object.defineProperty(navigator, 'getBattery', { get: function() { return ''; } });
-#%#Object.defineProperty(window, 'getScreens', { get: function() { return ''; } });
-#%#Object.defineProperty(window, 'isMultiScreen', { get: function() { return ''; } });
 $$amp-ad
 $$script[src="popads.net"]
 $$script[tag-content="','ga'"]
-$$script[tag-content="'_trackPageView'"]
 $$script[tag-content="'trackPageView'"]
 $$script[tag-content="(clickInfo).track"]
 $$script[tag-content=".isAB"]
@@ -780,62 +769,27 @@ $$script[tag-content="trackLinks"]
 $$script[tag-content="track_hits"]
 $$script[tag-content="trackerCountry"]
 $$script[tag-content="userABMessage"]
-$$script[tag-content="userABMessage"]
 $$script[tag-content="var ad_idzone"]
 $$script[tag-content="var thPop ="]
 $$script[tag-content="window.ga"]
 $$script[tag-content="window.localStorage.setItem(test, test);"]
+$$script[tag-content="window.open(url, "", windowprops);"]
 $$script[tag-content="zfgloaded"]
 *###modal-outer:has-text(/unblock ads/i)
 *###side_content:has-text(/advert/i)
 *##.caption:has-text(/advert/i)
 *##.outer-item:has-text(/advert/i)
+*##body:style(overflow:visible !important)
 *##div.content_aside:has-text(/advert/i)
 *##div.sticky-container:has-text(/ad(vert|verts|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)/i)
-*#?#a:has-text(/(black lives matter|blacklivesmatter|blm)/i)
 *#?#a:has-text(/ad(vert|verts|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
-*#?#h1:has-text(/(black lives matter|blacklivesmatter|blm)/i)
 *#?#h1:has-text(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
-*#?#h2:has-text(/(black lives matter|blacklivesmatter|blm)/i)
 *#?#h2:has-text(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
-*#?#h3:has-text(/(black lives matter|blacklivesmatter|blm)/i)
 *#?#h3:has-text(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
-*#?#h4:has-text(/(black lives matter|blacklivesmatter|blm)/i)
 *#?#h4:has-text(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
-*#?#h5:has-text(/(black lives matter|blacklivesmatter|blm)/i)
 *#?#h5:has-text(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
-*#?#h6:has-text(/(black lives matter|blacklivesmatter|blm)/i)
 *#?#h6:has-text(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
 *#?#p:has-text(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
-@@||sourceforge.net$generichide,genericblock
-amazon.com###heroQuickPromo_feature_div, #percolate-ui-ilm_div
-amazon.com##.rush-component > .rush-component:has-text(Sponsored)
-amazon.com##.s-widget.s-border-bottom-none.s-flex-full-width.s-result-item.a-spacing-none.a-section:has-text(Price and other details may vary based on)
-amazon.com##.sbx_td
-amazon.com##[id*="CardInstance"]:has-text(/Advert/i):upward(4)
-duckduckgo.com##.sponsored, .js-results-ads, .badge-link--newsletter
-e00-*
-e00.
-github.com###js-flash-container, .js-octo-ga-ide, .signup-prompt, .js-notice.f4-md.f6.text-bold.text-white.text-md-center.text-left.p-3
-github.com##div.js-navigation-item:has-text(/(black lives matter|blacklivesmatter|blm)/i)
-google.com###main > div:has-text(Ad)
-google.com###taw
-google.com###tvcap
-google.com##.c, .commercial-unit-desktop-top, #tadsb, #tads, #rhs, #tvcap
-open.spotify.com##section[class*="scss"]:has-text(/Black Music Matters|Black Lives Matter|BLM/i)
-reddit.com##[class*="_2"] > [class*="_2"] > [class*="_i1"]
-reddit.com##[data-before-content*="advertisement"], [class*="_2"]:nth-of-type(2) > [class*="_1"], [class*="_2"]:nth-of-type(3) > [class*="_1"]
-space,buzz,rest,top,wang,tk,gq,london,ryukyu,cf,ml,men,gdn,work,click,loan,top,ga,agency,biz,country,stream,download,xin,gdn,jetzt,racing,win,bid,vip,ren,kim,mom,party,review,trade,date,accountant,accountants,pro,info,xyz,xxx,adult#%#document.addEventListener('DOMContentLoaded', function(){link();});link();function link(){const script = document.querySelectorAll('script');script.forEach(item => item.remove());const noscript = document.querySelectorAll('noscript');noscript.forEach(item => item.remove());}
-youtube.com###chat:has-text(Chat Replay is disabled for this Premiere.)
-youtube.com###masthead-ad, .ytd-primetime-promo-renderer, .ytd-mealbar-promo-renderer, .ytd-promoted-sparkles-text-search-renderer, .ytd-compact-promoted-video-renderer, .sparkles-light-cta, .ytd-promoted-video-renderer, #clarify-box, .vidiq-social-stats-upsell, .ytd-compact-promoted-item-renderer, .ytd-carousel-ad-renderer, .ytd-player-legacy-desktop-watch-ads-renderer, .ytp-ad-module.video-ads, .ytp-ad-display-override, #old-browser-alert, .ytd-primetime-promo-renderer, #YtKevlarVisibilityIdentifier, [class*="-promo-"]
-youtube.com###secondary:has-text(/(black lives matter|blacklivesmatter|blm)/i)
-youtube.com##.ytd-rich-section-renderer.style-scope:has-text(Featured)
-youtube.com##.ytd-unlimited-offer-module-renderer.style-scope:has-text(Buy)
-youtube.com##style-scope ytd-channel-renderer:has-text(/(black lives matter|blacklivesmatter|blm)/i)
-youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope:has-text(/(black lives matter|blacklivesmatter|blm)/i)
-youtube.com##ytd-horizontal-card-list-renderer:has-text(/(black lives matter|blacklivesmatter|blm)/i)
-youtube.com##ytd-playlist-renderer:has-text(/(black lives matter|blacklivesmatter|blm)/i)
-youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
-youtube.com#@#body { overflow:visible!important; }
+youtube.com#@#body:style(overflow:visible !important)
 youtube.com$cookie=/__Secure-/;samesite=strict
 youtube.com$cookie=VISITOR_INFO1_LIVE;samesite=strict

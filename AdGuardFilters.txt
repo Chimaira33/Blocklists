@@ -51,6 +51,7 @@ $$link[rel="subresource"]
 *?spot_id=*&ct=*$popup,popunder
 /(auth)[0-9]{2,3}\.(dns|ns|roc)\..+/$all
 /.*midroll.*/$domain=youtube.com
+/^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)\.[^.]/$all
 ?*.facebook.
 ?*facebook*
 @@||192.168.60.153^$important
@@ -61,6 +62,7 @@ $$link[rel="subresource"]
 @@||pi.hole^$important,document
 @@||protonmail.com^$important,document
 duckduckgo.com##.has-image:has-text(Facebook)
+duckduckgo.com#@#[class*="--adv"]
 fastpic.ru#@#[id*="adblock-"]
 google.*###bottomads
 google.*###consent-bump
@@ -73,10 +75,12 @@ google.*##.xFNJP
 google.*,gstatic.*#%#Object.defineProperty(navigator, 'plugins', { get: function() { return 'undefined'; } });
 http://*.exe^$empty
 http://*.msi^$empty
+www.reddit.com$@$script[tag-content="ClickTracking"]
 youtube.com###chat
 youtube.com###chatframe
 youtube.com###ticker
 youtube.com##+js(json-prune, adPlacements playerAds)
+youtube.com#@#[id*="ad-container"]
 youtube.com#@#body:style(overflow:visible !important)
 ||*.bat^$empty
 ||*.dll^$empty
@@ -175,7 +179,6 @@ youtube.com#@#body:style(overflow:visible !important)
 ||googletagservices.com/tag/js/gpt.js$script,redirect=noopjs
 ||grabify.link^$all
 ||gstatic.com/shopping$domain=google.*
-||gtm.*^$all
 ||hackfÈ¯rums.com^$all
 ||hackfÈ¯rums.net^$all
 ||id.google.*$domain=google.*
