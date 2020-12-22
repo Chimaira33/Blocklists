@@ -14761,6 +14761,9 @@ www.llllllllllll.net^
 ||a.admp.io^
 ||a.adorika.net^
 ||a.adroll.com^
+||a.ads1.msn.com^
+||a.ads2.msads.net^
+||a.ads2.msn.com^
 ||a.adultcamchatfree.com^
 ||a.adultdvdtalk.com^
 ||a.amd.com^
@@ -19356,6 +19359,7 @@ www.llllllllllll.net^
 ||adku.com^
 ||adl.kinogo.by^
 ||adl.mynetreklam.com^
+||adl.windows.com^
 ||adlabs.com^
 ||adlabs.ru^
 ||adlabsnetworks.com^
@@ -22664,6 +22668,7 @@ www.llllllllllll.net^
 ||ads1.knxs.net^
 ||ads1.lfengmobile.com^
 ||ads1.mediacapital.pt^
+||ads1.msads.net^
 ||ads1.msn.com^
 ||ads1.mytwoapp.com^
 ||ads1.nexdra.com^
@@ -27090,6 +27095,7 @@ www.llllllllllll.net^
 ||ak2.cdn.9appsdownloading.com^
 ||ak72eviic9m.site^
 ||ak9.6895588.com^
+||aka-cdn-ns.adtech.de^
 ||aka-root.com^
 ||aka-uae-dl.uliza.jp^
 ||aka.accortech.com^
@@ -32580,6 +32586,7 @@ www.llllllllllll.net^
 ||apps.recoveraccount-secure07b-chase.com^
 ||apps.rockyou.com^
 ||apps.samsungcloudcdn.com^
+||apps.skype.com^
 ||apps.slaspa.com^
 ||apps.thinkdigital.ro^
 ||apps.vingd.com^
@@ -35378,6 +35385,8 @@ www.llllllllllll.net^
 ||b.abcscience.xyz^
 ||b.acpr.su^
 ||b.actualno.com^
+||b.ads1.msn.com^
+||b.ads2.msads.net^
 ||b.alot.com^
 ||b.aol.com^
 ||b.babylon.com^
@@ -40549,6 +40558,8 @@ www.llllllllllll.net^
 ||bn.take-profit.org^
 ||bn.vsenovostroyki.com.ua^
 ||bn1.homefot.ru^
+||bn2-ris-ap-prod-atm.trafficmanager.net^
+||bn2-ris-prod-atm.trafficmanager.net^
 ||bn5x.net^
 ||bnbabes.net^
 ||bnbir.xyz^
@@ -45959,6 +45970,7 @@ www.llllllllllll.net^
 ||cettenu.com^
 ||cettenus.com^
 ||ceuswatcab01.blob.core.windows.net^
+||ceuswatcab02.blob.core.windows.net^
 ||cevaplus.info^
 ||cevizmasifpanel.com^
 ||cevwkduhwbuc.com^
@@ -46901,6 +46913,7 @@ www.llllllllllll.net^
 ||chograud.com^
 ||chohachadugu.com^
 ||choice.microsoft.com.nsatc.net^
+||choice.microsoft.com^
 ||choicecommitment.com^
 ||choicedealz.com^
 ||choicehoels.com^
@@ -50114,6 +50127,7 @@ www.llllllllllll.net^
 ||compassenergyservices.com^
 ||compasslabs.com^
 ||compatexchange.cloudapp.net^
+||compatexchange1.trafficmanager.net^
 ||compatibledelightpointy.com^
 ||compazenad.com^
 ||compdate.my03.com^
@@ -50880,6 +50894,7 @@ www.llllllllllll.net^
 ||continuer-ldentifiez-vous.webador.com^
 ||continular.com^
 ||continuouscrusader.com^
+||continuum.dds.microsoft.com^
 ||contions.pro^
 ||contlist.com^
 ||contniental.com^
@@ -51851,6 +51866,7 @@ www.llllllllllll.net^
 ||corp.intimatemerger.com^
 ||corp.ninja.co.jp^
 ||corp.sohu.com^
+||corp.sts.microsoft.com^
 ||corp.youdao.com^
 ||corpcyclone.com^
 ||corpintex.com^
@@ -54102,6 +54118,7 @@ www.llllllllllll.net^
 ||cs-serva.net^
 ||cs.celebbusters.com^
 ||cs.chromeinform.com^
+||cs.dds.microsoft.com^
 ||cs.exposedontape.com^
 ||cs.media.net^
 ||cs.montrealplus.ca^
@@ -54110,6 +54127,7 @@ www.llllllllllll.net^
 ||cs.twcczhu.com^
 ||cs.voot.com^
 ||cs02-pps-drcn.dbankcdn.com^
+||cs1.wpc.v0cdn.net^
 ||cs1137.wpc.gammacdn.net^
 ||cs126.wpc.teliasoneracdn.net^
 ||cs12d.com^
@@ -63078,6 +63096,7 @@ www.llllllllllll.net^
 ||eatyfailiffacc.club^
 ||eau-breeziest-in.cloudapp.net^
 ||eaus2watcab01.blob.core.windows.net^
+||eaus2watcab02.blob.core.windows.net^
 ||eauth.aspyr.com^
 ||eavs02.eqifa.com^
 ||eawp2ra7.top^
@@ -69016,6 +69035,7 @@ www.llllllllllll.net^
 ||fe.feedbackrights.com^
 ||fe.lea.lycos.es^
 ||fe18.ru^
+||fe2.update.microsoft.com.akadns.net^
 ||fe4r7k22y68p.info^
 ||fe73trk.com^
 ||fe7qygqi2p2h.com^
@@ -83588,6 +83608,7 @@ www.llllllllllll.net^
 ||i1.go2yd.com^
 ||i1.imlmediahub.com^
 ||i1.services.social.microsoft.com.nsatc.net^
+||i1.services.social.microsoft.com^
 ||i1.wlmediahub.com^
 ||i151125.infourl.net^
 ||i16-tb.isnssdk.com.edgekey.net^
@@ -84526,6 +84547,8 @@ www.llllllllllll.net^
 ||ientrymail.com^
 ||ieodk.xyz^
 ||ieonline.microsoft.com^
+||ieonlinews.microsoft.com^
+||ieonlinews.trafficmanager.net^
 ||iepcsr.com^
 ||ieplads.com^
 ||ieplugin.com^
@@ -86818,6 +86841,7 @@ www.llllllllllll.net^
 ||insideoftech.com^
 ||insider.pro^
 ||insiderpages.com^
+||insideruser.trafficmanager.net^
 ||insidesoci.al^
 ||insidethestockmarket.xyz^
 ||insidewestnile.com^
@@ -94927,6 +94951,7 @@ www.llllllllllll.net^
 ||lb.webovernet.com^
 ||lb1.antiadblock.cz^
 ||lb1.cloudstonegame.com^
+||lb1.ms.akadns.net^
 ||lb1.www.ms.akadns.net^
 ||lbadqucegufygcpl-dot-owaonk399399393.uk.r.appspot.com^
 ||lbarch.co.za^
@@ -99890,6 +99915,7 @@ www.llllllllllll.net^
 ||m.hf796.com^
 ||m.hf8333.com^
 ||m.hjhagame.net^
+||m.hotmail.com^
 ||m.internet-b.com^
 ||m.ishangtong.com^
 ||m.izeplay.com^
@@ -108267,6 +108293,7 @@ www.llllllllllll.net^
 ||msettesc.top^
 ||msetup.pro^
 ||msf.ias.tencent-cloud.net^
+||msftncsi.com^
 ||msftoutlook.com^
 ||msftoutlook.site^
 ||msg-2.me^
@@ -125233,6 +125260,7 @@ www.llllllllllll.net^
 ||prdirectory.biz^
 ||prdwebcollector.ruetracking.com^
 ||pre-gn.quimron.net^
+||pre.footprintpredict.com^
 ||pre.glotgrx.com^
 ||preads.skypeassets.net^
 ||preadyaggrego.club^
@@ -127284,6 +127312,7 @@ www.llllllllllll.net^
 ||public-analytics.us-east-1.prod.public.atl-paas.net^
 ||public-analytics.useast.atlassian.io^
 ||public-cdn.cloud.unity3d.com^
+||public-family.api.account.microsoft.com^
 ||public.adgger.jp^
 ||public.api.nicovideo.jp^
 ||public.app.autohome.com.cn^
@@ -130948,6 +130977,7 @@ www.llllllllllll.net^
 ||redioshark.com^
 ||redir-traffic.elephant-traffic.com^
 ||redir.domaingateway.com^
+||redir.metaservices.microsoft.com^
 ||redir.mobidirect.info^
 ||redir.sunnyshore.xyz^
 ||redirdomain.ru^
@@ -134789,6 +134819,7 @@ www.llllllllllll.net^
 ||s.faloo.com^
 ||s.free.fr^
 ||s.frida.vse42.ru^
+||s.gateway.messenger.live.com^
 ||s.gdatacube.net^
 ||s.gg0376.com^
 ||s.giaoducthoidai.vn^
@@ -135070,6 +135101,7 @@ www.llllllllllll.net^
 ||s9kkremkr0.com^
 ||s9w.cc^
 ||s9wp1.cn^
+||sO.2mdn.net^
 ||sa-as.com^
 ||sa-beta-ads-uploads-superawesome.netdna-ssl.com^
 ||sa-ga-so.net^
@@ -138277,6 +138309,7 @@ www.llllllllllll.net^
 ||secure.encryptedconnection.net^
 ||secure.esputnik.com.ua^
 ||secure.facebook.com.de.a2ip.ru^
+||secure.flashtalking.com^
 ||secure.gameloft.com^
 ||secure.gooddata.com^
 ||secure.heritageinvestmentbank.com^
@@ -139658,6 +139691,7 @@ www.llllllllllll.net^
 ||settings-ppe.data.microsoft.com^
 ||settings-win-ppe.data.microsoft.com^
 ||settings.crashlytics.com^
+||settingsfd-geo.trafficmanager.net^
 ||settingsppup.com^
 ||settingupdate.yourgoodflashupgradingmain.icu^
 ||settleads.gotrackier.com^
@@ -142164,6 +142198,7 @@ www.llllllllllll.net^
 ||slpsrgpsrhojifdij.ru^
 ||slqtqcmvlqlflo.com^
 ||slrviazqkilu.com^
+||sls.update.microsoft.com.akadns.net^
 ||sls2.loisirsencheres.com^
 ||sls3.cz^
 ||slsherriff.org^
@@ -145151,6 +145186,7 @@ www.llllllllllll.net^
 ||spymag.com^
 ||spynet2.microsoft.com^
 ||spynetalt.microsoft.com^
+||spyneteurope.microsoft.akadns.net^
 ||spynigeria.com^
 ||spyoff.com^
 ||spyphoneblutooth.com^
@@ -147878,6 +147914,8 @@ www.llllllllllll.net^
 ||statsession.com^
 ||statsevent.com^
 ||statsfe.ws.microsoft.com^
+||statsfe1.ws.microsoft.com^
+||statsfe2.update.microsoft.com.akadns.net^
 ||statsfe2.ws.microsoft.com^
 ||statsforads.com^
 ||statsforever.com^
@@ -150692,6 +150730,8 @@ www.llllllllllll.net^
 ||t.yzwr588.com^
 ||t.z2adigital.com^
 ||t0.ca^
+||t0.ssl.ak.dynamic.tiles.virtualearth.net^
+||t0.ssl.ak.tiles.virtualearth.net^
 ||t0day.eu^
 ||t0gju20fq34i.com^
 ||t0gkj99krb24.com^
@@ -152296,6 +152336,7 @@ www.llllllllllll.net^
 ||tele-gazeta24.h2g.pl^
 ||tele-geo.com^
 ||tele-gram.vip^
+||tele.trafficmanager.net^
 ||tele24wiadomosci.com.pl^
 ||teleargentina.com^
 ||teleaudio.pl^
@@ -161052,6 +161093,7 @@ www.llllllllllll.net^
 ||ui.hdcdui.com^
 ||ui.oix.net^
 ||ui.ppjol.com^
+||ui.skype.com^
 ||ui.staples-sparx.com^
 ||ui.swogo.com^
 ||ui.swogo.net^
@@ -162352,6 +162394,7 @@ www.llllllllllll.net^
 ||urs.cbsnews.com^
 ||urs.cnet.com^
 ||urs.metacritic.com^
+||urs.microsoft.com^
 ||urs.techrepublic.com^
 ||urs.zdnet.com^
 ||ursecure.com^
@@ -168300,6 +168343,7 @@ www.llllllllllll.net^
 ||weu02-breeziest-in.cloudapp.net^
 ||weufdhsas.com^
 ||weus2watcab01.blob.core.windows.net^
+||weus2watcab02.blob.core.windows.net^
 ||weuztuwxue.com^
 ||wew.dushiwenxue.net^
 ||wewbay.com^
@@ -178995,6 +179039,7 @@ www.llllllllllll.net^
 ||ztacs.com^
 ||ztag-trackedevents-enterprise-1441845540.us-west-2.elb.amazonaws.com^
 ||ztcadx.com^
+||ztd.dds.microsoft.com^
 ||ztdfsxgcyprwvp.com^
 ||zteandroid.com^
 ||zteikg.com^
