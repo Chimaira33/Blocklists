@@ -76,6 +76,7 @@ google.*,gstatic.*#%#Object.defineProperty(navigator, 'plugins', { get: function
 http://*.exe^$empty
 http://*.msi^$empty
 www.reddit.com$@$script[tag-content="ClickTracking"]
+www.win-raid.com$@$a[onclick="track"]
 youtube.com###chat
 youtube.com###chatframe
 youtube.com###ticker
