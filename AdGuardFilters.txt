@@ -11,6 +11,7 @@ $$a[onclick="track"]
 $$a[ping]
 $$a[referrerpolicy]
 $$a[rel="prev"]
+$$amp-ad
 $$iframe[referrerpolicy]
 $$link[rel="dns-prefetch"]
 $$link[rel="next"]
@@ -22,11 +23,14 @@ $$link[rel="prerender"]
 $$link[rel="prev"]
 $$link[rel="subresource"]
 *##+js(noeval)
-*.com/be_fl.js$script,redirect=noopjs
 *.com/be_fl.js$script,redirect=noopjs,important
 */*/header.js$script,redirect=noopjs,important
 */*gpt_*$script,redirect=noopjs,important
 */*prebid_*$script,redirect=noopjs,important
+*/adScript*$script,redirect=noopjs,important
+*/ads/pop.$script,redirect-rule=noopjs,important
+*/ads_prebid$script,redirect=noopjs,important
+*/atmedia_ms_v*$script,redirect=noopjs,third-party,important
 */google_tag-$script,redirect=noopjs,important
 */google_tag.$script,redirect=noopjs,important
 */gtag.$script,redirect=noopjs,important
@@ -37,7 +41,9 @@ $$link[rel="subresource"]
 */metrics.$script,redirect=noopjs,important
 */msn-adblocker-*/
 */naviad
+*/netcheck.gif$image,redirect=1x1.gif,important
 */netcheck.gif$image,redirect=1x1.gif,important,domain=~gmail.com|mail.google.com
+*/player_ads.$subdocument,redirect-rule=noop.html
 */popunder.gif^$popup,popunder
 */prebid*$script,redirect=noopjs,important
 */pubads_$script,redirect=noopjs,important
@@ -77,10 +83,13 @@ http://*.exe^$empty
 http://*.msi^$empty
 www.reddit.com$@$script[tag-content="ClickTracking"]
 www.win-raid.com$@$a[onclick="track"]
-youtube.com###chat
-youtube.com###chatframe
-youtube.com###ticker
+youtube.com###chat:-abp-contains(Chat Replay is disabled for this Premiere.)
+youtube.com###contents > ytd-rich-section-renderer.style-scope.ytd-rich-grid-renderer:--abp-contains(/breaking news/i)
 youtube.com##+js(json-prune, adPlacements playerAds)
+youtube.com##.ytd-popup-container.style-scope:-abp-contains(Got it)
+youtube.com##.ytd-rich-section-renderer.style-scope:-abp-contains(Featured)
+youtube.com##.ytd-unlimited-offer-module-renderer.style-scope:-abp-contains(Buy)
+youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1):-abp-contains(Ad)
 youtube.com#@#[id*="ad-container"]
 youtube.com#@#body:style(overflow:visible !important)
 ||*.bat^$empty
@@ -257,3 +266,4 @@ youtube.com#@#body:style(overflow:visible !important)
 ||yoütu.be^$all
 ||youramonkey.com^$all
 ||youshouldclick.us^$all
+~ads.$script,redirect=noop-js
