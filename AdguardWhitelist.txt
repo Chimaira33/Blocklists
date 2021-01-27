@@ -4,7 +4,6 @@
 @@||api.adguard.com^$important
 @@||auth.adguard.com^$important
 @@||filters.adtidy.org^$important
-@@||local.adguard.org^$important
 @@||mobile-api.adguard.com^$important
 @@||my.adguard.com^$important
 @@||static.adguard.com^$important
