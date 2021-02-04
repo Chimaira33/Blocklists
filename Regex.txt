@@ -11,7 +11,6 @@
 /^banners?[_.-]/$important
 /^beacons?[0-9]*[_.-]/$important
 /^count(ers?)?[0-9]*[_.-]/$important
-/^firebase?[-.]/$important
 /^id.google?[-.]/$important
 /^id.l.google?[-.]/$important
 /^mads\./$important

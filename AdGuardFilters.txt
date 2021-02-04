@@ -98,12 +98,12 @@
 ##a[src*="go.schjmp.com"]
 ##a[src*="nichedlinks.com/hop/"]
 ##a[src*="scfsdvc.com"]
-##img[alt="Sponsor"]
 ##img[alt="sponsor"]
-##img[alt="sponsored"]
+##img[alt="Sponsor"]
 ##img[alt="Sponsored"]
-##img[name="sponsor"]
+##img[alt="sponsored"]
 ##img[name="Sponsor"]
+##img[name="sponsor"]
 ##img[name="sponsored"]
 ##img[name="Sponsored"]
 ##img[src*="go.php"]
@@ -161,8 +161,8 @@ $$script[tag-content="pixelFor"]
 $$script[tag-content="pixelUrl"]
 $$script[tag-content="popMagic.url"]
 $$script[tag-content="PopUnder"]
-$$script[tag-content="preloadAds"]
 $$script[tag-content="PreloadAds"]
+$$script[tag-content="preloadAds"]
 $$script[tag-content="scrollEventTag"]
 $$script[tag-content="sendAnalytic"]
 $$script[tag-content="TiaraTracker.getInstance()"]
@@ -200,13 +200,20 @@ $$script[tag-content="zfgloaded"]
 /.*midroll.*/$domain=youtube.com
 ?*.facebook.
 ?*facebook*
-@@||192.168.60.153^$important
-@@||192.168.60.180^$important
+@@||127.0.0.1^$first-party,important
+@@||192.168.*.^$first-party,important
+@@||192.168.60.153^$important,document
+@@||192.168.60.180^$important,document
+@@||americafirst.com^$important,document
+@@||duckduckgo.com$generichide
+@@||duckduckgo.com/t/$stylesheet
 @@||forgecdn.net/files/*/*/*.jar$important
+@@||github.com$generichide
 @@||jobs.utah.gov^$important,document
 @@||optifine.net^$important,document
 @@||pi.hole^$important,document
 @@||protonmail.com^$important,document
+@@||youtube.com$generichide
 duckduckgo.com##.has-image:has-text(Facebook)
 duckduckgo.com#@#[class*="--adv"]
 fastpic.ru#@#[id*="adblock-"]
@@ -221,6 +228,7 @@ google.*##.xFNJP
 google.*,gstatic.*#%#Object.defineProperty(navigator, 'plugins', { get: function() { return 'undefined'; } });
 http://*.exe^$empty
 http://*.msi^$empty
+reddit.com#@#:-abp-has(div[data-before-content="advertisement"])
 www.reddit.com$@$script[tag-content="ClickTracking"]
 www.win-raid.com$@$a[onclick="track"]
 youtube.com###chat:-abp-contains(Chat Replay is disabled for this Premiere.)
@@ -232,6 +240,7 @@ youtube.com##.ytd-unlimited-offer-module-renderer.style-scope:-abp-contains(Buy)
 youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1):-abp-contains(Ad)
 youtube.com#@#[id*="ad-container"]
 youtube.com#@#body:style(overflow:visible !important)
+youtube.com#@#offer-module
 ||*.bat^$empty
 ||*.dll^$empty
 ||*.hta^$empty
@@ -247,7 +256,7 @@ youtube.com#@#body:style(overflow:visible !important)
 ||*.vbe^$empty
 ||*.vbs^$empty
 ||0.0.0.0^$third-party
-||127.0.0.1^$third-party,websocket
+||127.0.0.1^$third-party
 ||129.134.30.12^$network
 ||129.134.31.12^$network
 ||157.240.14.35^$network
@@ -255,10 +264,11 @@ youtube.com#@#body:style(overflow:visible !important)
 ||185.89.219.12^$network
 ||8.8.4.4^$network
 ||8.8.8.8^$network
-||[::1]^$third-party,websocket
+||[::1]^$third-party
 ||amazon-adsystem.com/*/apstag.js$script,redirect-rule=amazon_apstag.js,important
 ||cdnst.net/javascript/amazon.js$script,redirect=amazon_apstag.js,important
 ||doubleclick.net/instream/ad_status.js$script,redirect=noopjs,important
+||fbcdn.net^$all
 ||google-analytics.com/cx/api.js$script,redirect=noopjs
 ||google-analytics.com/ga.js$script,redirect=noopjs
 ||google.com/pagead/$domain=youtube.com
@@ -266,8 +276,6 @@ youtube.com#@#body:style(overflow:visible !important)
 ||googletagservices.com/tag/js/gpt.js$script,redirect=noopjs
 ||gstatic.com/shopping$domain=google.*
 ||id.google.*$domain=google.*
-||localhost^$third-party
-||localhost^$third-party,websocket
 ||play.google.com$domain=google.*
 ||reddit.com/sw-stats/
 ||scorecardresearch.com/beacon.js$script,redirect=noopjs
