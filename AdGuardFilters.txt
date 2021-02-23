@@ -234,12 +234,9 @@ reddit.com#@#:-abp-has(div[data-before-content="advertisement"])
 www.reddit.com$@$script[tag-content="ClickTracking"]
 www.win-raid.com$@$a[onclick="track"]
 youtube.com###chat:-abp-contains(Chat Replay is disabled for this Premiere.)
-youtube.com###contents > ytd-rich-section-renderer.style-scope.ytd-rich-grid-renderer:--abp-contains(/breaking news/i)
 youtube.com##+js(json-prune, adPlacements playerAds)
 youtube.com##.ytd-popup-container.style-scope:-abp-contains(Got it)
-youtube.com##.ytd-rich-section-renderer.style-scope:-abp-contains(Featured)
 youtube.com##.ytd-unlimited-offer-module-renderer.style-scope:-abp-contains(Buy)
-youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1):-abp-contains(Ad)
 youtube.com#@#[id*="ad-container"]
 youtube.com#@#body:style(overflow:visible !important)
 youtube.com#@#offer-module
