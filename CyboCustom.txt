@@ -567,9 +567,7 @@
 ##[id^="blogTwoAD"]
 ##[id^="bnnr"]
 ##iframe[id*="google_ad"]
-$ping
-$removeparam=/^utm_.+/
-$removeparam=_visid_|tracelog|affiliate_ref|publisherid|os_version|os_name|package_name|app_version_name|app_version_code|orientation_lock|CLIENT_IMPRESSION|page-ref|browser-info|referrer|browserver|foxref|is_first_visit|refccid|__twitter_impression|guce_referrer|guce_referrer_sig|adCount|wmlspartner|clickid|guccounter|tj_url|so_rec|int_cmpgn|^uclick|uclickhash|^ref_src|^ref_url|_trkparms|^yclid|^gclid|^fbclid|^fb_ref|^fb_source
+||*^$ping
 *###modal-outer:has-text(/unblock ads/i)
 *###side_content:has-text(/advert/i)
 *##.caption:has-text(/advert/i)
@@ -595,6 +593,5 @@ $removeparam=_visid_|tracelog|affiliate_ref|publisherid|os_version|os_name|packa
 @@||sourceforge.net$generichide,genericblock
 google.$third-party,cookie=/.+/;maxAge=1440,domain=~youtube.com|~accounts.google.com
 space,buzz,rest,top,wang,tk,gq,london,ryukyu,cf,ml,men,gdn,work,click,loan,top,ga,agency,biz,country,stream,download,xin,gdn,jetzt,racing,win,bid,vip,ren,kim,mom,party,review,trade,date,accountant,accountants,pro,info,xyz,xxx,adult#%#document.addEventListener('DOMContentLoaded', function(){link();});link();function link(){const script = document.querySelectorAll('script');script.forEach(item => item.remove());const noscript = document.querySelectorAll('noscript');noscript.forEach(item => item.remove());}
-youtube.com#@#body:style(overflow:visible !important)
 youtube.com$cookie=/__Secure-/;samesite=strict
 youtube.com$cookie=VISITOR_INFO1_LIVE;samesite=strict
