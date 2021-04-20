@@ -2,7 +2,6 @@
 /^(.+[_.-])?dnsdelegation\.io$/$important
 /^(.+[_.-])?eulerian\.net$/$important
 /^(www[0-9]*\.)?xn--/$important
-/^(xtrapath[0-9])?[-.]/$important
 /^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/$important
 /^adim(age|g)s?[0-9]*[_.-]/$important
 /^adservice.google?[-.]/$important
