@@ -10,14 +10,14 @@
 ##a[href*=".searchiq.co"]
 ##a[href*=".space/redirect/"]
 ##a[href*="/_clicktracker.php"]
-##a[href*="/adclick.php"]
 ##a[href*="/adClick/"]
+##a[href*="/adServe/"]
+##a[href*="/adclick.php"]
 ##a[href*="/adclicksTag.php"]
 ##a[href*="/adredir.php"]
 ##a[href*="/adrotate-out.php?"]
 ##a[href*="/ads/click"]
 ##a[href*="/ads?zone_id="]
-##a[href*="/adServe/"]
 ##a[href*="/advert"]
 ##a[href*="/advertise/"]
 ##a[href*="/affiliates."]
@@ -98,13 +98,13 @@
 ##a[src*="go.schjmp.com"]
 ##a[src*="nichedlinks.com/hop/"]
 ##a[src*="scfsdvc.com"]
-##img[alt="sponsor"]
 ##img[alt="Sponsor"]
 ##img[alt="Sponsored"]
+##img[alt="sponsor"]
 ##img[alt="sponsored"]
 ##img[name="Sponsor"]
-##img[name="sponsor"]
 ##img[name="Sponsored"]
+##img[name="sponsor"]
 ##img[name="sponsored"]
 ##img[src*="go.php"]
 ##img[src*="out.php"]
@@ -141,8 +141,20 @@ $$script[tag-content="('log','pageview');"]
 $$script[tag-content="('track', 'PageView')"]
 $$script[tag-content="(clickInfo).track"]
 $$script[tag-content=".isAB"]
-$$script[tag-content=".isAdblock"]
 $$script[tag-content=".isAdBlock"]
+$$script[tag-content=".isAdblock"]
+$$script[tag-content="AntiAdblock"]
+$$script[tag-content="ClickTracking"]
+$$script[tag-content="EmbeddedAdsDuration"]
+$$script[tag-content="ExoLoader"]
+$$script[tag-content="ExoVideoSlider"]
+$$script[tag-content="Google Analytics"]
+$$script[tag-content="GoogleAnalyticsObject"]
+$$script[tag-content="InterstitialTsAd"]
+$$script[tag-content="NREUM.info={"beacon"]
+$$script[tag-content="PopUnder"]
+$$script[tag-content="PreloadAds"]
+$$script[tag-content="TiaraTracker.getInstance()"]
 $$script[tag-content="_gaq.push(['_trackPageview'])"]
 $$script[tag-content="ad_popup_force"]
 $$script[tag-content="adblock.html"]
@@ -151,51 +163,39 @@ $$script[tag-content="adver('interstitial', "]
 $$script[tag-content="adver('preroll',"]
 $$script[tag-content="adver.detect"]
 $$script[tag-content="analytics.plugins."]
-$$script[tag-content="AntiAdblock"]
 $$script[tag-content="atppop"]
 $$script[tag-content="clickPixels"]
-$$script[tag-content="ClickTracking"]
-$$script[tag-content="EmbeddedAdsDuration"]
 $$script[tag-content="enableLinkTracking"]
 $$script[tag-content="eulerian_"]
 $$script[tag-content="exdynsrv.com"]
+$$script[tag-content="exoUrl"]
 $$script[tag-content="exo_div"]
 $$script[tag-content="exoclick"]
 $$script[tag-content="exoloader"]
-$$script[tag-content="ExoLoader"]
-$$script[tag-content="exoUrl"]
-$$script[tag-content="ExoVideoSlider"]
 $$script[tag-content="function gtag(){"]
 $$script[tag-content="ga('set',"]
 $$script[tag-content="ga-counter\""]
 $$script[tag-content="gascroll"]
 $$script[tag-content="get_country"]
-$$script[tag-content="Google Analytics"]
-$$script[tag-content="GoogleAnalyticsObject"]
-$$script[tag-content="InterstitialTsAd"]
 $$script[tag-content="juicyads.rocks"]
 $$script[tag-content="lastPageName"]
 $$script[tag-content="navigator.userAgent.toLowerCase()),isTansoD"]
-$$script[tag-content="NREUM.info={"beacon"]
 $$script[tag-content="pixelFor"]
 $$script[tag-content="pixelUrl"]
 $$script[tag-content="popMagic.url"]
-$$script[tag-content="PopUnder"]
-$$script[tag-content="PreloadAds"]
 $$script[tag-content="preloadAds"]
 $$script[tag-content="screen.colorDepth"]
 $$script[tag-content="screen.pixelDepth"]
 $$script[tag-content="scrollEventTag"]
 $$script[tag-content="sendAnalytic"]
-$$script[tag-content="TiaraTracker.getInstance()"]
-$$script[tag-content="track_hits"]
 $$script[tag-content="trackCustClick"]
-$$script[tag-content="trackerCountry"]
 $$script[tag-content="trackLinks"]
+$$script[tag-content="track_hits"]
+$$script[tag-content="trackerCountry"]
 $$script[tag-content="userABMessage"]
 $$script[tag-content="vads.viewport_width"]
-$$script[tag-content="var ad_idzone"]
 $$script[tag-content="var PREROLL_SCROLL_DOWN_URL"]
+$$script[tag-content="var ad_idzone"]
 $$script[tag-content="var thPop ="]
 $$script[tag-content="window.localStorage.setItem(test, test);"]
 $$script[tag-content="window.open(url, "", windowprops);"]
@@ -215,10 +215,11 @@ $$script[wildcard="*setCookie*countVisit();*"]
 */*/header.js$script,redirect=noopjs,important
 */*gpt_*$script,redirect=noopjs,important
 */*prebid_*$script,redirect=noopjs,important
+*/PhoenixGoogleAnalytics.min.js$script,redirect=noopjs
 */adManager$script,redirect=noop-js
+*/adScript*$script,redirect=noopjs,important
 */ads/pop.$script,redirect-rule=noopjs,important
 */ads_prebid$script,redirect=noopjs,important
-*/adScript*$script,redirect=noopjs,important
 */analytics.min.js$script,redirect=noopjs
 */atmedia_ms_v*$script,redirect=noopjs,third-party,important
 */cleardot.gif$image,redirect=1x1.gif,important
@@ -233,7 +234,6 @@ $$script[wildcard="*setCookie*countVisit();*"]
 */msn-adblocker-*/
 */naviad
 */netcheck.gif$image,redirect=1x1.gif,important
-*/PhoenixGoogleAnalytics.min.js$script,redirect=noopjs
 */player_ads.$subdocument,redirect-rule=noop.html
 */popunder.gif^$popup,popunder
 */prebid*$script,redirect=noopjs,important
@@ -247,6 +247,7 @@ $$script[wildcard="*setCookie*countVisit();*"]
 */wp-content/plugins/sorry-adblocker/js/sab.js$script
 *?spot_id=*&ct=*$popup,popunder
 /.*midroll.*/$domain=youtube.com
+/favicon.ico|
 ?*.facebook.
 ?*facebook*
 @@||127.0.0.1^$first-party,important
