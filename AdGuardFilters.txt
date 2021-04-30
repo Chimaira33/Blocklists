@@ -1,3 +1,7 @@
+###modal-outer:-abp-contains(/unblock ads/i)
+###side_content:-abp-contains(/advert/i)
+##.caption:-abp-contains(/advert/i)
+##.outer-item:-abp-contains(/advert/i)
 ##[aria-label="Ads"]
 ##[onclick*="facebook.com/sharer.php?"]
 ##[src*="deliver.ptgncdn.com"]
@@ -10,14 +14,14 @@
 ##a[href*=".searchiq.co"]
 ##a[href*=".space/redirect/"]
 ##a[href*="/_clicktracker.php"]
-##a[href*="/adClick/"]
-##a[href*="/adServe/"]
 ##a[href*="/adclick.php"]
+##a[href*="/adClick/"]
 ##a[href*="/adclicksTag.php"]
 ##a[href*="/adredir.php"]
 ##a[href*="/adrotate-out.php?"]
 ##a[href*="/ads/click"]
 ##a[href*="/ads?zone_id="]
+##a[href*="/adServe/"]
 ##a[href*="/advert"]
 ##a[href*="/advertise/"]
 ##a[href*="/affiliates."]
@@ -98,16 +102,27 @@
 ##a[src*="go.schjmp.com"]
 ##a[src*="nichedlinks.com/hop/"]
 ##a[src*="scfsdvc.com"]
+##div.content_aside:-abp-contains(/advert/i)
+##div.sticky-container:-abp-contains(/ad(vert|verts|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)/i)
 ##img[alt="Sponsor"]
-##img[alt="Sponsored"]
 ##img[alt="sponsor"]
 ##img[alt="sponsored"]
+##img[alt="Sponsored"]
 ##img[name="Sponsor"]
-##img[name="Sponsored"]
 ##img[name="sponsor"]
 ##img[name="sponsored"]
+##img[name="Sponsored"]
 ##img[src*="go.php"]
 ##img[src*="out.php"]
+#%#Object.defineProperty(navigator, 'getBattery', { get: function() { return ''; } });
+#?#a:-abp-contains(/ad(vert|verts|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
+#?#h1:-abp-contains(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
+#?#h2:-abp-contains(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
+#?#h3:-abp-contains(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
+#?#h4:-abp-contains(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
+#?#h5:-abp-contains(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
+#?#h6:-abp-contains(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
+#?#p:-abp-contains(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
 $$a[data-beacon-url]
 $$a[data-google-query-id]
 $$a[data-obtrack]
@@ -134,6 +149,7 @@ $$script[src="popads.net"]
 $$script[src="tsyndicate.com"]
 $$script[tag-content="','ga'"]
 $$script[tag-content="'adblockTracker',"]
+$$script[tag-content="'adblockTracker',"] 
 $$script[tag-content="'clickTrackerInit',"]
 $$script[tag-content="'trackPageView'"]
 $$script[tag-content="(""log"",""pageview"");"]
@@ -141,20 +157,8 @@ $$script[tag-content="('log','pageview');"]
 $$script[tag-content="('track', 'PageView')"]
 $$script[tag-content="(clickInfo).track"]
 $$script[tag-content=".isAB"]
-$$script[tag-content=".isAdBlock"]
 $$script[tag-content=".isAdblock"]
-$$script[tag-content="AntiAdblock"]
-$$script[tag-content="ClickTracking"]
-$$script[tag-content="EmbeddedAdsDuration"]
-$$script[tag-content="ExoLoader"]
-$$script[tag-content="ExoVideoSlider"]
-$$script[tag-content="Google Analytics"]
-$$script[tag-content="GoogleAnalyticsObject"]
-$$script[tag-content="InterstitialTsAd"]
-$$script[tag-content="NREUM.info={"beacon"]
-$$script[tag-content="PopUnder"]
-$$script[tag-content="PreloadAds"]
-$$script[tag-content="TiaraTracker.getInstance()"]
+$$script[tag-content=".isAdBlock"]
 $$script[tag-content="_gaq.push(['_trackPageview'])"]
 $$script[tag-content="ad_popup_force"]
 $$script[tag-content="adblock.html"]
@@ -163,43 +167,57 @@ $$script[tag-content="adver('interstitial', "]
 $$script[tag-content="adver('preroll',"]
 $$script[tag-content="adver.detect"]
 $$script[tag-content="analytics.plugins."]
+$$script[tag-content="AntiAdblock"]
 $$script[tag-content="atppop"]
 $$script[tag-content="clickPixels"]
+$$script[tag-content="ClickTracking"]
+$$script[tag-content="EmbeddedAdsDuration"]
 $$script[tag-content="enableLinkTracking"]
 $$script[tag-content="eulerian_"]
 $$script[tag-content="exdynsrv.com"]
-$$script[tag-content="exoUrl"]
+$$script[tag-content="exdynsrv.com"] 
 $$script[tag-content="exo_div"]
 $$script[tag-content="exoclick"]
 $$script[tag-content="exoloader"]
+$$script[tag-content="ExoLoader"]
+$$script[tag-content="exoUrl"]
+$$script[tag-content="ExoVideoSlider"]
 $$script[tag-content="function gtag(){"]
 $$script[tag-content="ga('set',"]
 $$script[tag-content="ga-counter\""]
 $$script[tag-content="gascroll"]
 $$script[tag-content="get_country"]
+$$script[tag-content="Google Analytics"]
+$$script[tag-content="GoogleAnalyticsObject"]
+$$script[tag-content="InterstitialTsAd"]
 $$script[tag-content="juicyads.rocks"]
 $$script[tag-content="lastPageName"]
 $$script[tag-content="navigator.userAgent.toLowerCase()),isTansoD"]
+$$script[tag-content="NREUM.info={"beacon"]
 $$script[tag-content="pixelFor"]
 $$script[tag-content="pixelUrl"]
 $$script[tag-content="popMagic.url"]
+$$script[tag-content="PopUnder"]
+$$script[tag-content="PreloadAds"]
 $$script[tag-content="preloadAds"]
 $$script[tag-content="screen.colorDepth"]
 $$script[tag-content="screen.pixelDepth"]
 $$script[tag-content="scrollEventTag"]
 $$script[tag-content="sendAnalytic"]
-$$script[tag-content="trackCustClick"]
-$$script[tag-content="trackLinks"]
+$$script[tag-content="TiaraTracker.getInstance()"]
 $$script[tag-content="track_hits"]
+$$script[tag-content="trackCustClick"]
 $$script[tag-content="trackerCountry"]
+$$script[tag-content="trackLinks"]
 $$script[tag-content="userABMessage"]
 $$script[tag-content="vads.viewport_width"]
-$$script[tag-content="var PREROLL_SCROLL_DOWN_URL"]
 $$script[tag-content="var ad_idzone"]
+$$script[tag-content="var PREROLL_SCROLL_DOWN_URL"]
 $$script[tag-content="var thPop ="]
 $$script[tag-content="window.localStorage.setItem(test, test);"]
 $$script[tag-content="window.open(url, "", windowprops);"]
 $$script[tag-content="window['gtag']"]
+$$script[tag-content="window['gtag']"] 
 $$script[tag-content="zfgloaded"]
 $$script[wildcard="**window.onbeforeunload*popit == true*"]
 $$script[wildcard="*const pop*'pop',*url: '*"]
@@ -215,11 +233,10 @@ $$script[wildcard="*setCookie*countVisit();*"]
 */*/header.js$script,redirect=noopjs,important
 */*gpt_*$script,redirect=noopjs,important
 */*prebid_*$script,redirect=noopjs,important
-*/PhoenixGoogleAnalytics.min.js$script,redirect=noopjs
 */adManager$script,redirect=noop-js
-*/adScript*$script,redirect=noopjs,important
 */ads/pop.$script,redirect-rule=noopjs,important
 */ads_prebid$script,redirect=noopjs,important
+*/adScript*$script,redirect=noopjs,important
 */analytics.min.js$script,redirect=noopjs
 */atmedia_ms_v*$script,redirect=noopjs,third-party,important
 */cleardot.gif$image,redirect=1x1.gif,important
@@ -234,6 +251,7 @@ $$script[wildcard="*setCookie*countVisit();*"]
 */msn-adblocker-*/
 */naviad
 */netcheck.gif$image,redirect=1x1.gif,important
+*/PhoenixGoogleAnalytics.min.js$script,redirect=noopjs
 */player_ads.$subdocument,redirect-rule=noop.html
 */popunder.gif^$popup,popunder
 */prebid*$script,redirect=noopjs,important
@@ -250,7 +268,6 @@ $$script[wildcard="*setCookie*countVisit();*"]
 /favicon.ico|
 ?*.facebook.
 ?*facebook*
-@@||127.0.0.1^$first-party,important
 @@||192.168.*.^$first-party,important
 @@||192.168.60.153^$important,document
 @@||192.168.60.180^$important,document
@@ -289,14 +306,14 @@ youtube.com$cookie=/.+/;samesite=strict,domain=~accounts.google.com|~google.com|
 ||*.pif^$empty
 ||*.ps1^$empty
 ||*.ps2^$empty
-||*.reg^$empty
+||*.reg^$empty,domain=~cdn.discordapp.com|discord.com
 ||*.scr^$empty
 ||*.sys^$empty
 ||*.tmp^$empty
 ||*.vbe^$empty
 ||*.vbs^$empty
-||127.0.0.1^$third-party
-||[::1]^$third-party
+||127.0.0.1^
+||[::1]^
 ||amazon-adsystem.com/*/apstag.js$script,redirect-rule=amazon_apstag.js,important
 ||cdnst.net/javascript/amazon.js$script,redirect=amazon_apstag.js,important
 ||doubleclick.net/instream/ad_status.js$script,redirect=noopjs,important
