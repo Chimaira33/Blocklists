@@ -1,137 +1,3 @@
-###modal-outer:-abp-contains(/unblock ads/i)
-###side_content:-abp-contains(/advert/i)
-##.ad-container
-##.ad-large
-##.ad-small
-##.ad-unit
-##.adsbygoogle
-##.adsbytrafficjunky
-##.adunit-wrap
-##.caption:-abp-contains(/advert/i)
-##.inlinead
-##.outer-item:-abp-contains(/advert/i)
-##.removeAdLink
-##.sponsor
-##.sponsored
-##[aria-label="Ads"]
-##[class*="-taboola"]
-##[class*="gdpr-cookie"]
-##[class*="inner-ad"]
-##[id*="gpt-ad"]
-##[onclick*="facebook.com/sharer.php?"]
-##[src*="deliver.ptgncdn.com"]
-##[src*="vidiq.com/ls/click"]
-##a[h$="Ad"]
-##a[h$="Advert"]
-##a[h$="Advertisement"]
-##a[href$="_banner"]
-##a[href*="&tracker_id="]
-##a[href*=".searchiq.co"]
-##a[href*=".space/redirect/"]
-##a[href*="/_clicktracker.php"]
-##a[href*="/adclick.php"]
-##a[href*="/adClick/"]
-##a[href*="/adclicksTag.php"]
-##a[href*="/adredir.php"]
-##a[href*="/adrotate-out.php?"]
-##a[href*="/ads/click"]
-##a[href*="/ads?zone_id="]
-##a[href*="/adServe/"]
-##a[href*="/advert"]
-##a[href*="/advertise/"]
-##a[href*="/affiliates."]
-##a[href*="/affiliates/"]
-##a[href*="/out.php?l=http://"]
-##a[href*="/out.php?member="]
-##a[href*="/services/AdsRedirect."]
-##a[href*="/track/"]
-##a[href*="/trackhit/"]
-##a[href*="6i4uibyg0c82.com"]
-##a[href*="?ad_provider"]
-##a[href*="?campaign_id="]
-##a[href*="?link_id="]
-##a[href*="actiondesk.com"]
-##a[href*="adinfo."]
-##a[href*="admitad.com"]
-##a[href*="ads.cdn.live"]
-##a[href*="ads.livepromotools.com"]
-##a[href*="adtng.com"]
-##a[href*="adtracks.biz"]
-##a[href*="advertising.com"]
-##a[href*="bingads.com"]
-##a[href*="blacklivesmatters."]
-##a[href*="buysellads.net"]
-##a[href*="bytesignal.com"]
-##a[href*="carbonads.net"]
-##a[href*="clickadilla.com"]
-##a[href*="clickbank.net"]
-##a[href*="clickstoclaim.com"]
-##a[href*="crazylead.com"]
-##a[href*="dianomi.com/click.epl"]
-##a[href*="doubleclick.net"]
-##a[href*="dynsrvbaa.com"]
-##a[href*="engine.eroge.com"]
-##a[href*="feed111.me"]
-##a[href*="fourchan.com"]
-##a[href*="frtyz.com"]
-##a[href*="getyoursnow.info"]
-##a[href*="gg.gg"]
-##a[href*="go.schjmp.com"]
-##a[href*="googleadservices.com"]
-##a[href*="grtyv.com"]
-##a[href*="hrtya.com"]
-##a[href*="imlive.com/wmaster.ashx?"]
-##a[href*="is.gd"]
-##a[href*="libedgolart.com"]
-##a[href*="mobtyb.com"]
-##a[href*="onelink.me"]
-##a[href*="orange2258.com"]
-##a[href*="outbrain.com"]
-##a[href*="panokaverit.com"]
-##a[href*="panotreffit.com"]
-##a[href*="refer.ccbill.com"]
-##a[href*="revsharecash.com"]
-##a[href*="rs-stripe.com"]
-##a[href*="strefa18.pl"]
-##a[href*="strpjmp.com"]
-##a[href*="tai789.net"]
-##a[href*="trafficjunky.com"]
-##a[href*="trafficjunky.net"]
-##a[href*="trcklks.com"]
-##a[href*="wpadkigwiazd.pl"]
-##a[href*="xnylfcp.com"]
-##a[onclick="closeMyAd()"]
-##a[onclick=*"/ping_url"]
-##a[onclick=*"adclick"]
-##a[onclick=*"track"]
-##a[src*="/_ad"]
-##a[src*="/adver/index."]
-##a[src*="/ai/a/ex/ab.php?"]
-##a[src*="/cats/meow"]
-##a[src*="go.schjmp.com"]
-##a[src*="nichedlinks.com/hop/"]
-##a[src*="scfsdvc.com"]
-##adunit-purch
-##div.content_aside:-abp-contains(/advert/i)
-##div.sticky-container:-abp-contains(/ad(vert|verts|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)/i)
-##img[alt="sponsor"]
-##img[alt="Sponsor"]
-##img[alt="sponsored"]
-##img[alt="Sponsored"]
-##img[name="sponsor"]
-##img[name="Sponsor"]
-##img[name="Sponsored"]
-##img[name="sponsored"]
-##img[src*="go.php"]
-##img[src*="out.php"]
-#?#a:-abp-contains(/ad(vert|verts|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
-#?#h1:-abp-contains(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
-#?#h2:-abp-contains(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
-#?#h3:-abp-contains(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
-#?#h4:-abp-contains(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
-#?#h5:-abp-contains(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
-#?#h6:-abp-contains(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
-#?#p:-abp-contains(/ad(vert|vertisement|click|clicks|cash|buzz|break|img|image|server|service|share|tech|pro|promo|exchange|dump)?s (by)|remove ads|reklama|sponsored (content|stories|links by)/i)
 $$a[data-beacon-url]
 $$a[data-google-query-id]
 $$a[data-obtrack]
@@ -165,8 +31,8 @@ $$script[tag-content="('log','pageview');"]
 $$script[tag-content="('track', 'PageView')"]
 $$script[tag-content="(clickInfo).track"]
 $$script[tag-content=".isAB"]
-$$script[tag-content=".isAdBlock"]
 $$script[tag-content=".isAdblock"]
+$$script[tag-content=".isAdBlock"]
 $$script[tag-content="_gaq.push(['_trackPageview'])"]
 $$script[tag-content="ad_popup_force"]
 $$script[tag-content="adblock.html"]
@@ -338,23 +204,13 @@ $important,cookie=/__utm[a-z]/
 @@||pi.hole^$important,document
 @@||protonmail.com^$important,document
 @@||www.majorgeeks.com^$important,document
-duckduckgo.com##.has-image:has-text(Facebook)
-duckduckgo.com#@#[class*="--adv"]
 google.$third-party,cookie=/.+/;maxAge=4320,domain=~youtube.com|~accounts.google.com
 google.*,gstatic.*#%#Object.defineProperty(navigator, 'plugins', { get: function() { return 'undefined'; } });
 http://*.exe^$redirect=nooptext,important
 http://*.msi^$redirect=nooptext,important
-reddit.com#@#:-abp-has(div[data-before-content="advertisement"])
 space,buzz,rest,top,wang,tk,gq,london,ryukyu,cf,ml,men,gdn,work,click,loan,top,ga,agency,biz,country,stream,download,xin,gdn,jetzt,racing,win,bid,vip,ren,kim,mom,party,review,trade,date,accountant,accountants,pro,info,xyz,xxx,adult#%#document.addEventListener('DOMContentLoaded', function(){link();});link();function link(){const script = document.querySelectorAll('script');script.forEach(item => item.remove());const noscript = document.querySelectorAll('noscript');noscript.forEach(item => item.remove());}
 www.reddit.com$@$script[tag-content="ClickTracking"]
 www.win-raid.com$@$a[onclick="track"]
-youtube.com###chat:-abp-contains(Chat Replay is disabled for this Premiere.)
-youtube.com##+js(json-prune, adPlacements playerAds)
-youtube.com##.ytd-popup-container.style-scope:-abp-contains(Got it)
-youtube.com##.ytd-unlimited-offer-module-renderer.style-scope:-abp-contains(Buy)
-youtube.com#@#[id*="ad-container"]
-youtube.com#@#body:style(overflow:visible !important)
-youtube.com#@#offer-module
 youtube.com$important,cookie=/.+/;samesite=strict,domain=~accounts.google.com|~google.com|~youtube.com
 ||*.bat^$redirect=nooptext,important
 ||*.dll^$redirect=nooptext,important
